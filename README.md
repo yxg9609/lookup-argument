@@ -19,7 +19,7 @@
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup111](papers/plookup论文.pdf)
-- [论文标题](papers/plookup论文.pdf)
+- [论文标题](papers/FLI_Folding_Lookup_Instances.pdf)
 
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
