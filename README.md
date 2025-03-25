@@ -38,7 +38,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
 - [cq: Cached quotients for fast lookups](papers/cq_Cached_quotients_for_fast_lookups.pdf)
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](papers/Lookup_Arguments_Improvements,Extensions_and_Applications.pdf)
 - [cqlin: Efficient linear operations on KZG commitments with cached quotients](papers/cqlin_Efficient_linear_operations_on_KZG_commitments.pdf)
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](papers/Efficient_KZG_based_Univariate_Sum-check_and_Lookup_Argument.pdf)
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](papers/Efficient_KZG-based_Univariate_Sum-check_and_Lookup_Argument.pdf)
 - [Improving logarithmic derivative lookups using GKR](papers/Improving_logarithmic_derivative_lookups_using_GKR.pdf)
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](papers/Natively_Compatible_Super-Efficient_Lookup_Arguments.pdf)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](papers/zkLLM_Zero-Knowledge_Proofs_for_Large_Language_Models.pdf)
