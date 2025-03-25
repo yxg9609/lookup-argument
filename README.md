@@ -19,8 +19,6 @@
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup111](papers/plookup论文.pdf)
-- [论文标题](papers/FLI_Folding_Lookup_Instances.pdf)
-
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ### 1.2 基于 memory checking
@@ -46,8 +44,10 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
 ### 1.5 基于 vanishing polynomial
 基于vanishing polynomial：caulk，caulk+，flookup
 Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是Caulk+
-
-
+- [Caulk](papers/Caulk_Lookup_Arguments_in_Sublinear_Time.pdf)
+- [Caulk+](papers/Caulk+Table-independent_lookup_arguments.pdf)
+- [flookup](papers/flookup_Fractional_decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size.pdf)
+- [Batching-Efficient RAM using Updatable Lookup Arguments](papers/Batching-Efficient_RAM_using_Updatable_Lookup_Arguments.pdf)
 ## 2. 查找对象分类
 ### 2.1 元素查找element lookup
 如何上传新的论文 PDF。
