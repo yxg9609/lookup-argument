@@ -34,7 +34,7 @@ Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument论文
 logup+GKR（Improving logarithmic derivative lookups using GKR论文）
 μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them论文）
 Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
-- [Logup](papers/Multivariate-lookups-based-on-logarithmic-derivatives.pdf)
+- [Logup](papers/Multivariate_lookups_based_on_logarithmic_derivatives.pdf)
 
 ### 1.4 基于 Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
