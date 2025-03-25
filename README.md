@@ -24,8 +24,8 @@ Halo 2 lookup,      Plookup
 ### 1.2 基于 memory checking
 (spartan),     GKR version in lasso
 - [Spartan](papers/paper_C.pdf)
-- [lasso](papers/Unlocking-the-lookup-singularity-with-Lasso.pdf)
-- [Scalable Zeroknowledge Proofs for Nonlinear Functions in Machine Learning](papers/Scalable-Zeroknowledge-Proofs-for-Nonlinear-Functions-in-Machine-Learning.pdf)
+- [Unlocking the lookup singularity with Lasso](papers/Unlocking-the-lookup-singularity-with-Lasso.pdf)
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](papers/Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning.pdf)
 ### 1.3 基于 logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees论文）
