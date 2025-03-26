@@ -1,4 +1,3 @@
-# lookup-argument
 # lookup-argument论文管理仓库
 
 ## 📌 目录
