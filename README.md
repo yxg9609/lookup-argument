@@ -11,6 +11,14 @@
   - [2.1 元素查找element lookup](#21-元素查找element-lookup)
   - [2.2 向量查找vector lookup](#22-向量查找vector-lookup)
   - [2.3 矩阵查找matrix lookup](#23-矩阵查找matrix-lookup)
+- [3. 零知识分类](#3-零知识分类)
+  - [3.1 非零知识](#31-非零知识)
+  - [3.2 部分零知识](#32-部分零知识)
+  - [3.3 完全零知识](#33-完全零知识)
+- [4. 需要预处理/可更新分类](#4-需要预处理/可更新分类)
+  - [2.1 元素查找element lookup](#21-元素查找element-lookup)
+  - [2.2 向量查找vector lookup](#22-向量查找vector-lookup)
+  - [2.3 矩阵查找matrix lookup](#23-矩阵查找matrix-lookup)
 
 ---
 
@@ -56,6 +64,17 @@ Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是C
 - [flookup](papers/flookup_Fractional_decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size.pdf)
 - [Batching-Efficient RAM using Updatable Lookup Arguments](papers/Batching-Efficient_RAM_using_Updatable_Lookup_Arguments.pdf)
 ## 2. 查找对象分类
+### 2.1 元素查找element lookup
+如何上传新的论文 PDF。
+
+### 2.2 向量查找vector lookup
+如何添加 BibTeX 文件。
+
+### 2.3 矩阵查找matrix lookup
+如何记录阅读笔记。
+
+
+## 3. 零知识分类
 ### 2.1 元素查找element lookup
 如何上传新的论文 PDF。
 
