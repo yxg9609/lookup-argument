@@ -17,7 +17,7 @@
 ## 1. 底层数学原理分类
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup](papers/plookup论文.pdf)
+- [plookup](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2020%2F315.pdf)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ### 1.2 基于 memory checking
