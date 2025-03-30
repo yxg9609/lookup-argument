@@ -17,12 +17,12 @@
 ## 1. 底层数学原理分类
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup](https://eprint.iacr.org/2020/315extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2020%2F315.pdf)
+- [plookup](https://eprint.iacr.org/2020/315)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ### 1.2 基于 memory checking
 (spartan),     GKR version in lasso
-- [Spartan](papers/paper_C.pdf)
+- [Spartan](https://eprint.iacr.org/2019/550.pdf)
 - [Lasso](papers/Unlocking_the_lookup_singularity_with_Lasso.pdf)
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](papers/Scalable_Zero-knowledge_Proofs_for_Non-linear_Functions_in_Machine_Learning.pdf)
 ### 1.3 基于 logarithmic derivatives
