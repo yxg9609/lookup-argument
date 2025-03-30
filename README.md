@@ -17,14 +17,14 @@
 ## 1. 底层数学原理分类
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup](https://eprint.iacr.org/2020/315)
+- [plookup](https://eprint.iacr.org/2020/315.pdf)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ### 1.2 基于 memory checking
 (spartan),     GKR version in lasso
 - [Spartan](https://eprint.iacr.org/2019/550.pdf)
-- [Lasso](papers/Unlocking_the_lookup_singularity_with_Lasso.pdf)
-- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](papers/Scalable_Zero-knowledge_Proofs_for_Non-linear_Functions_in_Machine_Learning.pdf)
+- [Lasso](https://eprint.iacr.org/2023/1216.pdf)
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)
 ### 1.3 基于 logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees论文）
@@ -33,14 +33,14 @@ Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument论文
 logup+GKR（Improving logarithmic derivative lookups using GKR论文）
 μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them论文）
 Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
-- [Logup](papers/Multivariate_lookups_based_on_logarithmic_derivatives.pdf)
-- [cq: Cached quotients for fast lookups](papers/cq_Cached_quotients_for_fast_lookups.pdf)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](papers/Lookup_Arguments_Improvements,Extensions_and_Applications.pdf)
-- [cqlin: Efficient linear operations on KZG commitments with cached quotients](papers/cqlin_Efficient_linear_operations_on_KZG_commitments.pdf)
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](papers/Efficient_KZG-based_Univariate_Sum-check_and_Lookup_Argument.pdf)
-- [Improving logarithmic derivative lookups using GKR](papers/Improving_logarithmic_derivative_lookups_using_GKR.pdf)
-- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](papers/Natively_Compatible_Super-Efficient_Lookup_Arguments.pdf)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](papers/zkLLM_Zero-Knowledge_Proofs_for_Large_Language_Models.pdf)
+- [Logup](https://eprint.iacr.org/2022/1530.pdf)
+- [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)
+- [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)
+- [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
+- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)
+- [zkLLM: Zero Knowledge Proofs for Large Language Models]CCS 24(https://arxiv.org/pdf/2404.16109)
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](papers/MuxProofs_Succinct_Arguments_for_Machine_Computation_from_Vector_Lookups.pdf)
 - [SublonK: Sublinear Prover PlonK](papers/SublonK_Sublinear_Prover_PlonK.pdf)
 ### 1.4 基于 Matrix vector multiplication
