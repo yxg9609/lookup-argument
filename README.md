@@ -48,7 +48,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)
 - [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models]CCS 24(https://arxiv.org/pdf/2404.16109)
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)CCS 24
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](papers/MuxProofs_Succinct_Arguments_for_Machine_Computation_from_Vector_Lookups.pdf)
 - [SublonK: Sublinear Prover PlonK](papers/SublonK_Sublinear_Prover_PlonK.pdf)
 ### 1.4 基于 Matrix vector multiplication
@@ -75,11 +75,11 @@ Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是C
 
 
 ## 3. 零知识分类
-### 2.1 元素查找element lookup
+### 3.1 非零知识
 如何上传新的论文 PDF。
 
-### 2.2 向量查找vector lookup
+### 3.2 部分零知识
 如何添加 BibTeX 文件。
 
-### 2.3 矩阵查找matrix lookup
+### 3.3 完全零知识
 如何记录阅读笔记。
