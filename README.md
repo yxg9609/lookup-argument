@@ -25,14 +25,14 @@
 ## 1. 底层数学原理分类
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup](https://eprint.iacr.org/2020/315.pdf)
+- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ### 1.2 基于 memory checking
 (spartan),     GKR version in lasso
-- [Spartan](https://eprint.iacr.org/2019/550.pdf)
-- [Lasso](https://eprint.iacr.org/2023/1216.pdf)
-- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)
+- [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)CRYPTO 2020
+- [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)USENIX 2024
 ### 1.3 基于 logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees论文）
@@ -41,28 +41,28 @@ Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument论文
 logup+GKR（Improving logarithmic derivative lookups using GKR论文）
 μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them论文）
 Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
-- [Logup](https://eprint.iacr.org/2022/1530.pdf)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)
 - [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
 - [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)PKC 2024
 - [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
-- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)CCS 24
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](papers/MuxProofs_Succinct_Arguments_for_Machine_Computation_from_Vector_Lookups.pdf)
-- [SublonK: Sublinear Prover PlonK](papers/SublonK_Sublinear_Prover_PlonK.pdf)
+- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)IACR in JOC 2024
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)CCS 2024
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)ASIACRYPT 2024
+- [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
 ### 1.4 基于 Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
-- [Folding lookup](papers/FLI_Folding_Lookup_Instances.pdf)
-- [Baloo](papers/Baloo_Nearly_Optimal_Lookup_Arguments.pdf)
-- [Lasso](papers/Unlocking_the_lookup_singularity_with_Lasso.pdf)
+- [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)ASIACRYPT 2024
+- [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
+- [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)
 ### 1.5 基于 vanishing polynomial
 基于vanishing polynomial：caulk，caulk+，flookup
 Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是Caulk+
-- [Caulk](papers/Caulk_Lookup_Arguments_in_Sublinear_Time.pdf)
-- [Caulk+](papers/Caulk+Table-independent_lookup_arguments.pdf)
-- [flookup](papers/flookup_Fractional_decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size.pdf)
-- [Batching-Efficient RAM using Updatable Lookup Arguments](papers/Batching-Efficient_RAM_using_Updatable_Lookup_Arguments.pdf)
+- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)
+- [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
+- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
+- [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)CCS 2024
 ## 2. 查找对象分类
 ### 2.1 元素查找element lookup
 如何上传新的论文 PDF。
