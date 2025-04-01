@@ -59,7 +59,7 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
 ### 1.5 基于 vanishing polynomial
 基于vanishing polynomial：caulk，caulk+，flookup
 Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是Caulk+
-- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)
+- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)CCS 2022
 - [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 - [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)CCS 2024
@@ -86,7 +86,7 @@ Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是C
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
 
 ### 3.3 完全零知识
-- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)
+- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)CCS 2022
 - [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)PKC 2024
 - [zkcq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
