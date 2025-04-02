@@ -26,14 +26,19 @@
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+
   [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
+
+  [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
 - [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)CRYPTO 2020
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
+
+  [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh))
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)USENIX 2024
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
