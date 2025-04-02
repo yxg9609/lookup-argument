@@ -1,6 +1,6 @@
-# lookup-argument论文管理仓库
+# lookup Argument
 
-## 📌 目录
+## 📌 Contents
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
@@ -11,7 +11,7 @@
   - [2.1 元素查找element lookup](#21-元素查找element-lookup)
   - [2.2 向量查找vector lookup](#22-向量查找vector-lookup)
   - [2.3 矩阵查找matrix lookup](#23-矩阵查找matrix-lookup)
-- [3. 零知识分类](#3-零知识分类)
+- [3. Classification Based on Zero-Knowledge Property](#3-Classification-Based-on-Zero-Knowledge-Property)
   - [3.1 非零知识](#31-非零知识)
   - [3.2 部分零知识](#32-部分零知识)
   - [3.3 完全零知识](#33-完全零知识)
@@ -78,7 +78,7 @@ Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是C
 ### 2.3 矩阵查找matrix lookup
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
 
-## 3. 零知识分类
+## 3. Classification Based on Zero-Knowledge Property
 ### 3.1 非零知识
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
