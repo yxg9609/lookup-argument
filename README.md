@@ -12,7 +12,7 @@
   - [2.2 向量查找vector lookup](#22-向量查找vector-lookup)
   - [2.3 矩阵查找matrix lookup](#23-矩阵查找matrix-lookup)
 - [3. Classification Based on Zero-Knowledge Property](#3-Classification-Based-on-Zero-Knowledge-Property)
-  - [3.1 非零知识](#31-非零知识)
+  - [3.1 Non-Zero-Knowledge](#31-Non-Zero-Knowledge)
   - [3.2 部分零知识](#32-部分零知识)
   - [3.3 完全零知识](#33-完全零知识)
 - [4. 需要预处理/可更新分类](#4-需要预处理/可更新分类)
@@ -26,6 +26,8 @@
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+  [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ### 1.2 Based on memory checking
