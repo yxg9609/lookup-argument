@@ -119,7 +119,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 
 ## 4. Classification Based on Preprocessing and Updatability
-### 4.1 Need preprocessing, Non-Updatable
+### 4.1 Need preprocessing_Non-Updatable
 如何上传新
 
 ### 4.2 No preprocessing, Updatable
