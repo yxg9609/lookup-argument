@@ -2,11 +2,11 @@
 
 ## 📌 目录
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
-  - [1.1 Based on multiset equality](#11-Based_on_multiset_equality)
-  - [1.2 基于 memory checking](#12-基于-memory-checking)
-  - [1.3 基于 logarithmic derivatives](#13-基于-logarithmic-derivatives)
-  - [1.4 基于 Matrix vector multiplication](#14-基于-Matrix-vector-multiplication)
-  - [1.5 基于 vanishing polynomial](#15-基于-vanishing-polynomial)
+  - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
+  - [1.2 Based on memory checking](#12-Based-on-memory-checking)
+  - [1.3 Based on logarithmic derivatives](#13-Based-on-logarithmic-derivatives)
+  - [1.4 Based on Matrix vector multiplication](#14-Based-on-Matrix-vector-multiplication)
+  - [1.5 Based on vanishing polynomial](#15-Based-on-vanishing-polynomial)
 - [2. 查找对象分类](#2-查找对象分类)
   - [2.1 元素查找element lookup](#21-元素查找element-lookup)
   - [2.2 向量查找vector lookup](#22-向量查找vector-lookup)
@@ -23,17 +23,17 @@
 ---
 
 ## 1. Classification Based on Fundamental Mathematical Principles
-### 1.1 基于 multiset equality
+### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
-### 1.2 基于 memory checking
+### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
 - [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)CRYPTO 2020
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)USENIX 2024
-### 1.3 基于 logarithmic derivatives
+### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees论文）
 cqlin   
@@ -51,12 +51,12 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)CCS 2024
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)ASIACRYPT 2024
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
-### 1.4 基于 Matrix vector multiplication
+### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
 - [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)ASIACRYPT 2024
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
-### 1.5 基于 vanishing polynomial
+### 1.5 Based on vanishing polynomial
 基于vanishing polynomial：caulk，caulk+，flookup
 Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是Caulk+
 - [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)CCS 2022
