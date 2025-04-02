@@ -1,4 +1,4 @@
-# lookup Argument
+# Lookup Arguments
 
 ## 📌 Contents
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
