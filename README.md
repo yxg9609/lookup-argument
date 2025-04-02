@@ -28,6 +28,7 @@ Halo 2 lookup,      Plookup
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
+  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
 
@@ -62,10 +63,14 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
 - [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
+  - [slides](https://www.slideshare.net/slideshow/zkstudyclub-cqlin-efficient-linear-operations-on-kzg-commitments/258231653)
+  - [video](https://www.youtube.com/watch?v=mxvaThCgU9c)
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)PKC 2024
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
 - [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
+  - [video](https://www.youtube.com/watch?v=DCEg61ExwK4&t=139s)
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)IACR in JOC 2024
+  - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)CCS 2024
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)ASIACRYPT 2024
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
@@ -92,7 +97,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 2. Classification Based on Lookup Objects
 ### 2.1 Element Lookup
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
+  - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
+  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
+  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
 
 
 ### 2.2 Vector lookup
@@ -110,6 +119,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 3.1 Non-Zero-Knowledge
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
+  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
 - [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)
   - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
