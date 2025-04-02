@@ -62,14 +62,20 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
 - [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)ASIACRYPT 2024
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
+
+  [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
+
+  [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
 ### 1.5 Based on vanishing polynomial
 基于vanishing polynomial：caulk，caulk+，flookup
 Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是Caulk+
 - [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)CCS 2022
 
-  [slides](https://www.slideshare.net/AlexPruden/caulk-zkstudyclub-caulk-lookup-arguments-in-sublinear-time-a-zapico?from_search=0)
+[notes](https://asdavinci.ing/post/caulk-caulk+note/)          [slides](https://www.slideshare.net/AlexPruden/caulk-zkstudyclub-caulk-lookup-arguments-in-sublinear-time-a-zapico?from_search=0)   [video](https://www.youtube.com/watch?v=uEssF2WzIeU)
 - [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
+
+  [notes](https://asdavinci.ing/post/caulk-caulk+note/)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 - [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)CCS 2024
 ## 2. 查找对象分类
