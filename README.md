@@ -1,8 +1,8 @@
 # lookup-argument论文管理仓库
 
 ## 📌 目录
-- [1. 底层数学原理分类](#1-底层数学原理分类)
-  - [1.1 基于 multiset equality](#11-基于-multiset-equality)
+- [1. Classification Based on Fundamental Mathematical Principles](#1-Classification_Based_on_Fundamental_Mathematical_Principles)
+  - [1.1 Based on multiset equality](#11-Based_on_multiset_equality)
   - [1.2 基于 memory checking](#12-基于-memory-checking)
   - [1.3 基于 logarithmic derivatives](#13-基于-logarithmic-derivatives)
   - [1.4 基于 Matrix vector multiplication](#14-基于-Matrix-vector-multiplication)
@@ -22,7 +22,7 @@
 
 ---
 
-## 1. 底层数学原理分类
+## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 基于 multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
