@@ -16,7 +16,7 @@
   - [3.2 Partial Zero-Knowledge](#32-Partial-Zero-Knowledge)
   - [3.3 Fully Zero-Knowledge](#33-Fully-Zero-Knowledge)
 - [4. Classification Based on Preprocessing and Updatability](#4-Classification-Based-on-Preprocessing-and-Updatability)
-  - [4.1 Need_preprocessing,_Non-Updatable](#41-Need-preprocessing,-Non-Updatable)
+  - [4.1 Need preprocessing_Non-Updatable](#41-Need-preprocessing_Non-Updatable)
   - [4.2 No_preprocessing, Updatable](#42-No-preprocessing,-Updatable)
   - [4.3 Need preprocessing, Updatable](#43-Need-preprocessing,-Updatable)
 
