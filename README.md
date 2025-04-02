@@ -13,8 +13,8 @@
   - [2.3 Matrix lookup](#23-Matrix-lookup)
 - [3. Classification Based on Zero-Knowledge Property](#3-Classification-Based-on-Zero-Knowledge-Property)
   - [3.1 Non-Zero-Knowledge](#31-Non-Zero-Knowledge)
-  - [3.2 部分零知识](#32-部分零知识)
-  - [3.3 完全零知识](#33-完全零知识)
+  - [3.2 Partial Zero-Knowledge](#32-Partial-Zero-Knowledge)
+  - [3.3 Fully Zero-Knowledge](#33-Fully-Zero-Knowledge)
 - [4. Classification Based on Preprocessing and Updatability](#4-Classification-Based-on-Preprocessing-and-Updatability)
   - [4.1 Need preprocessing, Non-Updatable](#41-Need-preprocessing,-Non-Updatable)
   - [4.2 No preprocessing, Updatable](#42-No-preprocessing,-Updatable)
@@ -45,12 +45,12 @@ Halo 2 lookup,      Plookup
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
-cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees论文）
+cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
 cqlin   
-Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument论文
-logup+GKR（Improving logarithmic derivative lookups using GKR论文）
-μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them论文）
-Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
+Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument
+logup+GKR（Improving logarithmic derivative lookups using GKR）
+μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them）
+Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
 - [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)
   - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
@@ -71,7 +71,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models论文）
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
 ### 1.4 Based on Matrix vector multiplication
-Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
+Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 - [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)ASIACRYPT 2024
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/197/197_slides.pdf)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
@@ -79,8 +79,8 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances论文）
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
   - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
 ### 1.5 Based on vanishing polynomial
-基于vanishing polynomial：caulk，caulk+，flookup
-Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是Caulk+
+Based on vanishing polynomial：caulk，caulk+，flookup
+"Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
 - [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)CCS 2022
   - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
   - [slides](https://www.slideshare.net/AlexPruden/caulk-zkstudyclub-caulk-lookup-arguments-in-sublinear-time-a-zapico?from_search=0)
@@ -103,15 +103,15 @@ Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是C
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
 
 ## 3. Classification Based on Zero-Knowledge Property
-### 3.1 非零知识
+### 3.1 Non-Zero-Knowledge
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
 - [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)
 
-### 3.2 部分零知识
+### 3.2 Partial Zero-Knowledge
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)PKC 2024
 
-### 3.3 完全零知识
+### 3.3 Fully Zero-Knowledge
 - [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)CCS 2022
 - [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)PKC 2024
