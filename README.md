@@ -28,7 +28,6 @@ Halo 2 lookup,      Plookup
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
-  
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
 
@@ -38,7 +37,7 @@ Halo 2 lookup,      Plookup
   - [slides](https://iacr.org/submit/files/slides/2020/crypto/crypto2020/304/slides.pptx)
   - [video](https://www.youtube.com/watch?v=FPQs7T7f_AU)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
-  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh))
+  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)USENIX 2024
@@ -121,10 +120,14 @@ Batching-Efficient RAM using Updatable Lookup Arguments论文基于的lookup是C
 
 ## 4. Classification Based on Preprocessing and Updatability
 ### 4.1 Need preprocessing, Non-Updatable
-如何上传新的论文 PDF。
+如何上传新
 
 ### 4.2 No preprocessing, Updatable
-如何添加 BibTeX 文件。
+- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
+  - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
+- [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
+  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
 
 ### 4.3 Need preprocessing, Updatable
-如何记录阅读笔记。
+- [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)CCS 2024
