@@ -1,7 +1,7 @@
 # lookup-argument论文管理仓库
 
 ## 📌 目录
-- [1. Classification Based on Fundamental Mathematical Principles](#1-Classification_Based_on_Fundamental_Mathematical_Principles)
+- [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based_on_multiset_equality)
   - [1.2 基于 memory checking](#12-基于-memory-checking)
   - [1.3 基于 logarithmic derivatives](#13-基于-logarithmic-derivatives)
