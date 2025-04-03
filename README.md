@@ -19,7 +19,7 @@
   - [4.1 Need preprocessing_Non-Updatable](#41-Need-preprocessing_Non-Updatable)
   - [4.2 No_preprocessing_Updatable](#42-No-preprocessing_Updatable)
   - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
-
+- [5. Applications of Lookup Arguments](#5-Applications-of-Lookup-Arguments)
 ---
 
 ## 1. Classification Based on Fundamental Mathematical Principles
