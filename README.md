@@ -26,7 +26,8 @@
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
-  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
+  - [note1](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [note2](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
