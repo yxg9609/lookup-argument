@@ -181,3 +181,5 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ### 4.3 Need preprocessing_Updatable
 - [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+
+## 5. Applications of Lookup Arguments
