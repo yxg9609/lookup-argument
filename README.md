@@ -1,6 +1,8 @@
 # Lookup Arguments
 
 ## 📌 Contents
+- Foundations
+  - sumcheck
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
@@ -25,7 +27,7 @@
 ## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
