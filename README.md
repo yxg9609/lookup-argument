@@ -1,8 +1,8 @@
 # Lookup Arguments
 
 ## 📌 Contents
-- Foundations
-  - sumcheck
+- [Foundations of Lookup Arguments](#-Foundations-of-Lookup-Arguments)
+  - [Sumcheck](#-SumCheck)
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
@@ -24,6 +24,14 @@
 - [5. Applications of Lookup Arguments](#5-Applications-of-Lookup-Arguments)
 ---
 
+## Foundations of Lookup Arguments
+### SumCheck
+
+### Polynomial Commitments
+
+### Offline Memory Checking
+
+
 ## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
@@ -42,7 +50,7 @@ Halo 2 lookup,      Plookup
   - [slides](https://iacr.org/submit/files/slides/2020/crypto/crypto2020/304/slides.pptx)
   - [video](https://www.youtube.com/watch?v=FPQs7T7f_AU)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
-  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
+  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
@@ -86,7 +94,9 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
   - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
-  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
+  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
+  - [video](https://youtu.be/_WsCQc9Elcg)
+  - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
@@ -101,8 +111,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 2. Classification Based on Lookup Objects
 ### 2.1 Element Lookup
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
-  - [note1](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [note2](https://hackmd.io/@relgabizon/ByFgSDA7D)
+  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
@@ -178,8 +188,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 ### 4.2 No preprocessing_Updatable
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
-  - [note1](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [note2](https://hackmd.io/@relgabizon/ByFgSDA7D)
+  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
