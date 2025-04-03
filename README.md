@@ -32,6 +32,7 @@ Halo 2 lookup,      Plookup
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
@@ -98,12 +99,13 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 2. Classification Based on Lookup Objects
 ### 2.1 Element Lookup
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
-  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
+  - [note1](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [note2](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-
+  - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
 
 ### 2.2 Vector lookup
 - [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)
@@ -174,10 +176,13 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 ### 4.2 No preprocessing_Updatable
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
-  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)   
+  - [note1](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [note2](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
+  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
 
 ### 4.3 Need preprocessing_Updatable
 - [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
