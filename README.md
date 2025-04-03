@@ -34,7 +34,7 @@ Halo 2 lookup,      Plookup
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
-- [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)<pre>      CRYPTO 2020</pre>
+- [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)CRYPTO 2020
   - [slides](https://iacr.org/submit/files/slides/2020/crypto/crypto2020/304/slides.pptx)
   - [video](https://www.youtube.com/watch?v=FPQs7T7f_AU)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)EUROCRYPT 2024
