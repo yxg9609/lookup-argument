@@ -22,6 +22,11 @@
   - [4.2 No_preprocessing_Updatable](#42-No-preprocessing_Updatable)
   - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
 - [5. Applications of Lookup Arguments](#5-Applications-of-Lookup-Arguments)
+
+
+
+- [6. Other Resources](#-6-Other-Resources)
+  - Lookup Overviews
 ---
 
 ## Foundations of Lookup Arguments
@@ -35,27 +40,32 @@
 ## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)eprint version
+- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
+  - [implementation](https://github.com/kevaundray/plookup)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
+  - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
 - [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRYPTO 2020
   - [slides](https://iacr.org/submit/files/slides/2020/crypto/crypto2020/304/slides.pptx)
   - [video](https://www.youtube.com/watch?v=FPQs7T7f_AU)
+  - [implementation](https://github.com/microsoft/Spartan)
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
+  - [implementation](https://github.com/zkp-learning/Lasso)
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
   - [video](https://youtu.be/OXOcq4avvP8)
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
+  - [implementation](https://github.com/CryptMatrix/ZKMath)
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
@@ -68,10 +78,12 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
   - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
+  - [implementation](https://github.com/yugocabrio/oreno-lookup)
 - [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)
   - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
   - [video 2](https://youtu.be/KQi3WdZvI6w)
+  - [implementation](https://github.com/geometryxyz/cq)
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
 - [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
