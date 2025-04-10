@@ -22,7 +22,9 @@
   - [4.2 No_preprocessing_Updatable](#42-No-preprocessing_Updatable)
   - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
 - [5. Applications of Lookup Arguments](#5-Applications-of-Lookup-Arguments)
-
+  - [5.1 zk-SNARK](#51-zk-SNARK)
+  - [5.2 Blockchain zkVM/zkEVM](#52-Blockchain-zkVM/zkEVM)
+  - [5.3 ZKML](#53-ZKML)
 
 
 - [6. Other Resources](#-6-Other-Resources)
@@ -229,3 +231,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 
 ## 5. Applications of Lookup Arguments
+### 5.1 zk-SNARK
+
+### 5.2 Blockchain zkVM/zkEVM
+
+### 5.3 ZKML
