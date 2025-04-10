@@ -99,7 +99,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
 - [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
   - [video](https://www.youtube.com/watch?v=DCEg61ExwK4&t=139s)
-- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IACR in JOC 2024
+- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
@@ -136,7 +136,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
   - [implementation](https://github.com/CPerezz/caulk_plus)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
-- [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+- [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+  - [short version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
 ## 2. Classification Based on Lookup Objects
 ### 2.1 Element Lookup
 - [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
