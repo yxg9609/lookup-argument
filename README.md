@@ -67,7 +67,8 @@ Halo 2 lookup,      Plookup
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
   - [implementation](https://github.com/zkp-learning/Lasso)
-- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://eprint.iacr.org/2025/507.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+  - [short version](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)
   - [video](https://youtu.be/OXOcq4avvP8)
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
   - [implementation](https://github.com/CryptMatrix/ZKMath)
