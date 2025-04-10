@@ -258,5 +258,5 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](https://eprint.iacr.org/2025/535.pdf)
 
 
-# 6. Other Resources
+## 6. Other Resources
 - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
