@@ -105,6 +105,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
   - [implementation](https://github.com/txaty/ark-segmentlookup)
+- [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf)&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 - [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
