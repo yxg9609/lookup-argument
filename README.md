@@ -50,6 +50,7 @@ Halo 2 lookup,      Plookup
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
   - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
@@ -179,6 +180,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [zkcq+ Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)
+
 
 
 ## 4. Classification Based on Preprocessing and Updatability
