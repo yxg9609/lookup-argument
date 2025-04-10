@@ -67,6 +67,7 @@ Halo 2 lookup,      Plookup
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
   - [implementation](https://github.com/CryptMatrix/ZKMath)
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
@@ -115,6 +116,8 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
   - [implementation](https://github.com/zkp-learning/Lasso)
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
