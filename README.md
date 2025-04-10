@@ -256,3 +256,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](https://eprint.iacr.org/2024/703.pdf)
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](https://eprint.iacr.org/2025/535.pdf)
+
+
+# 6. Other Resources
+- [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
