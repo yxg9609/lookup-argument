@@ -71,6 +71,7 @@ Halo 2 lookup,      Plookup
   - [implementation](https://github.com/CryptMatrix/ZKMath)
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 - [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)
+- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](https://eprint.iacr.org/2025/105.pdf)
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
@@ -232,7 +233,26 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ## 5. Applications of Lookup Arguments
 ### 5.1 zk-SNARK
-
+- [BabySpartan: Lasso-based SNARK for non-uniform computation](https://eprint.iacr.org/2023/1799.pdf)
 ### 5.2 Blockchain zkVM/zkEVM
-
+- [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)
+- [Proving CPU Executions in Small Space](https://eprint.iacr.org/2025/611.pdf)
+- [ZKWASM: A ZKSNARK WASM Emulator](https://ieeexplore.ieee.org/document/10587123)
+  - [implementation](https://github.com/CPerezz/caulk_plus)
+- [Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM](https://eprint.iacr.org/2023/1115.pdf)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](https://eprint.iacr.org/2024/2084.pdf)
+- [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](https://eprint.iacr.org/2024/1605.pdf)&nbsp;&nbsp;&nbsp;&nbsp;based on Lasso
+- [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](https://eprint.iacr.org/2023/1555.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+  TODO
+- [scroll]
+- [zksync]
+- [Risc0]
 ### 5.3 ZKML
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+  - [video](https://youtu.be/OXOcq4avvP8)
+  - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
+  - [implementation](https://github.com/CryptMatrix/ZKMath)
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+  - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
+- [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](https://eprint.iacr.org/2024/703.pdf)
+- [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](https://eprint.iacr.org/2025/535.pdf)
