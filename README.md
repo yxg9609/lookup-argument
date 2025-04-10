@@ -72,8 +72,11 @@ Halo 2 lookup,      Plookup
   - [video](https://youtu.be/OXOcq4avvP8)
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
   - [implementation](https://github.com/CryptMatrix/ZKMath)
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+  - [short version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
+  - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
 - [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)
+  - [blog](https://www.lita.foundation/blog/tassle-tensors-and-sumcheck-for-structured-lookup-efficiency)
 - [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](https://eprint.iacr.org/2025/105.pdf)
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
@@ -93,7 +96,8 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
   - [video 2](https://youtu.be/KQi3WdZvI6w)
   - [implementation](https://github.com/geometryxyz/cq)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+  - [short version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_11.pdf)
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
 - [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
   - [slides](https://www.slideshare.net/slideshow/zkstudyclub-cqlin-efficient-linear-operations-on-kzg-commitments/258231653)
