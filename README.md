@@ -23,7 +23,7 @@
   - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
 - [5. Applications of Lookup Arguments](#5-Applications-of-Lookup-Arguments)
   - [5.1 zk-SNARK](#51-zk-SNARK)
-  - [5.2 Blockchain zkVM/zkEVM](#52-Blockchain-zkVM/zkEVM)
+  - [5.2 Blockchain zkVM zkEVM](#52-Blockchain-zkVM-zkEVM)
   - [5.3 ZKML](#53-ZKML)
 
 
@@ -234,7 +234,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 5. Applications of Lookup Arguments
 ### 5.1 zk-SNARK
 - [BabySpartan: Lasso-based SNARK for non-uniform computation](https://eprint.iacr.org/2023/1799.pdf)
-### 5.2 Blockchain zkVM/zkEVM
+### 5.2 Blockchain zkVM zkEVM
 - [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)
 - [Proving CPU Executions in Small Space](https://eprint.iacr.org/2025/611.pdf)
 - [ZKWASM: A ZKSNARK WASM Emulator](https://ieeexplore.ieee.org/document/10587123)
