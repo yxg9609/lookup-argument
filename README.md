@@ -66,6 +66,7 @@ Halo 2 lookup,      Plookup
   - [video](https://youtu.be/OXOcq4avvP8)
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
   - [implementation](https://github.com/CryptMatrix/ZKMath)
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
@@ -174,6 +175,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
 - [zkcq+ Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 
 
 ## 4. Classification Based on Preprocessing and Updatability
