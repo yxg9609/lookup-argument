@@ -27,7 +27,7 @@
   - [5.3 ZKML](#53-ZKML)
 
 
-- [6. Other Resources](#-6-Other-Resources)
+- [6. Other Resources](#6-Other-Resources)
   - Lookup Overviews
 ---
 
