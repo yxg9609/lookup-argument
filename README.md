@@ -110,7 +110,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
