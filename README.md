@@ -107,14 +107,15 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
 - [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
   - [video](https://www.youtube.com/watch?v=DCEg61ExwK4&t=139s)
-- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
+- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
+  - [journal version](https://link.springer.com/content/pdf/10.1007/s00145-024-09535-0.pdf)
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
-- [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
+- [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [implementation](https://github.com/txaty/ark-segmentlookup)
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620.pdf)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
@@ -135,15 +136,16 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
-- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
+- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)&nbsp;&nbsp;&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
+  - [short version](https://dl.acm.org/doi/pdf/10.1145/3548606.3560646)
   - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
   - [slides](https://www.slideshare.net/AlexPruden/caulk-zkstudyclub-caulk-lookup-arguments-in-sublinear-time-a-zapico?from_search=0)
   - [video](https://www.youtube.com/watch?v=uEssF2WzIeU)
   - [implementation](https://github.com/caulk-crypto/caulk)
-- [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
+- [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
   - [implementation](https://github.com/CPerezz/caulk_plus)
-- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
+- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 - [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
   - [short version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
 ## 2. Classification Based on Lookup Objects
