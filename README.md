@@ -257,10 +257,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](https://eprint.iacr.org/2024/1605.pdf)&nbsp;&nbsp;&nbsp;&nbsp;based on Lasso
 - [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](https://eprint.iacr.org/2023/1555.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
-  TODO
-- [scroll]
-- [zksync]
-- [Risc0]
+- [scroll](https://www.slideshare.net/slideshow/zkevm-circuit-arithmetization-by-ye-zhang/267299055)
+- [zksync](https://docs.zksync.io/zksync-protocol/circuits/zk-terminology)
+- [polygon zkEVM](https://docs.polygon.technology/zkEVM/architecture/proving-system/secondary-sms-lookup-tables/?h=lookup)
 ### 5.3 ZKML
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
   - [video](https://youtu.be/OXOcq4avvP8)
