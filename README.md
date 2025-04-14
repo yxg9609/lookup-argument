@@ -52,7 +52,7 @@ Halo 2 lookup,      Plookup
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
   - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
-- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
@@ -75,9 +75,9 @@ Halo 2 lookup,      Plookup
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
   - [short version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
   - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
-- [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)
+- [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [blog](https://www.lita.foundation/blog/tassle-tensors-and-sumcheck-for-structured-lookup-efficiency)
-- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](https://eprint.iacr.org/2025/105.pdf)
+- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](https://eprint.iacr.org/2025/105.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
@@ -115,7 +115,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)
   - [implementation](https://github.com/txaty/ark-segmentlookup)
-- [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf)&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
+- [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620.pdf)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
