@@ -112,7 +112,8 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;eprint version&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+  - [short version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
@@ -121,7 +122,8 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620.pdf)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
-- [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+  - [short version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_13)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/197/197_slides.pdf)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
   - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
