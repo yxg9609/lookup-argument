@@ -86,13 +86,14 @@ Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument
 logup+GKR（Improving logarithmic derivative lookups using GKR）
 μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them）
 Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
-- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
   - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
   - [implementation](https://github.com/yugocabrio/oreno-lookup)
-- [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)
+- [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
+  - [slides](https://aztec.slides.com/suyashbagad_aztec/cq-lookup)
   - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
   - [video 2](https://youtu.be/KQi3WdZvI6w)
   - [implementation](https://github.com/geometryxyz/cq)
@@ -269,3 +270,4 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ## 6. Other Resources
 - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
+- [blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
