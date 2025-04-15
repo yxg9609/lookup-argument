@@ -1,8 +1,13 @@
 # Lookup Arguments
 
 ## 📌 Contents
-- [Foundations of Lookup Arguments](#-Foundations-of-Lookup-Arguments)
+- [Foundation Knowledges of Lookup Arguments](#-Foundation-Knowledges-of-Lookup-Arguments)
   - [Sumcheck](#-SumCheck)
+  - [Polynomial Commitments](#-Polynomial-Commitments)
+  - [Low Degree and Multilinear Extensions](#-Low-Degree-and-Multilinear-Extensions)
+  - [Logarithmic Derivative](#-Logarithmic-Derivative)
+  - [Offline Memory Checking](#-Offline-Memory-Checking)
+  - [Multiset Euqlity](#-Multiset-Euqlity)
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
@@ -31,13 +36,21 @@
   - Lookup Overviews
 ---
 
-## Foundations of Lookup Arguments
+## Foundation Knowledges of Lookup Arguments
 ### SumCheck
-
+- [Multivariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/multivariate/Multivariate-Sum-Check-Protocol)
+- [Univariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/univariate/Univariate-Sum-Check-Protocol)
 ### Polynomial Commitments
-
+- [KZG](https://georgwiese.github.io/crypto-summaries/Concepts/Polynomial-Commitment-Schemes/KZG)
+- [Spark](https://georgwiese.github.io/crypto-summaries/Concepts/Polynomial-Commitment-Schemes/Spark)
+### Low Degree and Multilinear Extensions
+- [Low Degree and Multilinear Extensions](https://georgwiese.github.io/crypto-summaries/Concepts/Fundamental-Concepts/Low-Degree-and-Multilinear-Extensions)
+### Logarithmic Derivative
+- [Logarithmic Derivative](https://building-babylon.net/2024/02/14/a-royal-road-to-logup/)
 ### Offline Memory Checking
-
+- [Offline Memory Checking](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Offline-Memory-Checking)
+### Multiset Euqlity
+- [Multiset Euqlity](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Permutation-Check-via-Product-Check)
 
 ## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 Based on multiset equality
