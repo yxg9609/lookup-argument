@@ -149,7 +149,9 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
   - [implementation](https://github.com/zkp-learning/Lasso)
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+  - [conference version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
+  - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
 - [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
@@ -239,7 +241,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_13.pdf?pdf=inline%20link)
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+  - [conference version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
+  - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
 - [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)
 
 
