@@ -2,12 +2,12 @@
 
 ## 📌 Contents
 - [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
-  - [Sumcheck](#-SumCheck)
-  - [Polynomial Commitments](#-Polynomial-Commitments)
-  - [Low Degree and Multilinear Extensions](#-Low-Degree-and-Multilinear-Extensions)
-  - [Logarithmic Derivative](#-Logarithmic-Derivative)
-  - [Offline Memory Checking](#-Offline-Memory-Checking)
-  - [Multiset Euqlity](#-Multiset-Euqlity)
+  - [Sumcheck](#SumCheck)
+  - [Polynomial Commitments](#Polynomial-Commitments)
+  - [Low Degree and Multilinear Extensions](#Low-Degree-and-Multilinear-Extensions)
+  - [Logarithmic Derivative](#Logarithmic-Derivative)
+  - [Offline Memory Checking](#Offline-Memory-Checking)
+  - [Multiset Euqlity](#Multiset-Euqlity)
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
