@@ -118,6 +118,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
 - [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [implementation](https://github.com/txaty/ark-segmentlookup)
+- [Succinct Non-Subsequence Arguments](https://eprint.iacr.org/2024/1264.pdf)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620.pdf)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
 ### 1.4 Based on Matrix vector multiplication
