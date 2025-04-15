@@ -1,7 +1,7 @@
 # Lookup Arguments
 
 ## 📌 Contents
-- [Foundation Knowledges of Lookup Arguments](Foundation-Knowledges-of-Lookup-Arguments)
+- [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
   - [Sumcheck](#-SumCheck)
   - [Polynomial Commitments](#-Polynomial-Commitments)
   - [Low Degree and Multilinear Extensions](#-Low-Degree-and-Multilinear-Extensions)
