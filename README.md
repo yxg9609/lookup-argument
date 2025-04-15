@@ -168,7 +168,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
 ## 2. Classification Based on Lookup Objects
 ### 2.1 Element Lookup
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
@@ -180,10 +180,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
 
 ### 2.2 Vector lookup
-- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
   - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
+  - [implementation](https://github.com/yugocabrio/oreno-lookup)
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
@@ -206,6 +207,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
   - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+  - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
+  - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
+  - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
+  - [implementation](https://github.com/yugocabrio/oreno-lookup)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
   - [implementation](https://github.com/geometryxyz/baloo?tab=readme-ov-file)
@@ -227,10 +233,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [video](https://www.youtube.com/watch?v=uEssF2WzIeU)
 - [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
   - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+- [zkcq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_11.pdf)
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
-- [zkcq+ Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_13.pdf?pdf=inline%20link)
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 - [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)
@@ -239,10 +246,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ## 4. Classification Based on Preprocessing and Updatability
 ### 4.1 Need preprocessing_Non-Updatable
-- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
   - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
+  - [implementation](https://github.com/yugocabrio/oreno-lookup)
 - [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/cq-lookup)
@@ -253,7 +261,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_11.pdf)
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
 - [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_13.pdf?pdf=inline%20link)
   - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
 - [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
 - [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
