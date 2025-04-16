@@ -1,5 +1,25 @@
 # Lookup Arguments
 
+## 🔄 Keeping Your Fork Updated
+
+If you've forked this repository and want to keep it up-to-date with the latest changes, you can set the original repo as an upstream remote and periodically sync updates using the following commands:
+
+```bash
+# Add the original repo as an upstream remote
+git remote add upstream https://github.com/yxg9609/lookup-argument.git
+
+# Fetch the latest changes from upstream
+git fetch upstream
+
+# Merge the changes into your local branch
+git merge upstream/main
+```
+
+This will help you stay in sync with the latest papers, summaries, or tools added to this repository.
+
+> 💡 Feel free to open a pull request if you have something useful to contribute!
+
+---
 ## 📌 Contents
 - [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
   - [Sumcheck](#SumCheck)
