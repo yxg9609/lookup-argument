@@ -56,7 +56,8 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   - Lookup Overviews
  
 - [7. Lookup Argument Related Papers Collection](#7-Lookup-Argument-Related-Papers-Collection)
-  - [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
+  - [Lookup Argument Papers](#Lookup-Argument-Papers)
+  - [Lookup Argument Application Papers](#Lookup-Argument-Application-Papers)
 ---
 
 ## Foundation Knowledges of Lookup Arguments
@@ -78,6 +79,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 ## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
+- [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
 - [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
@@ -367,8 +369,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 
 ## 7. Lookup Argument Related Papers Collection
-
-### plookup: A simplified polynomial protocol for lookup tables
+### Lookup Argument Papers
+#### plookup: A simplified polynomial protocol for lookup tables
   - [eprint version](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
