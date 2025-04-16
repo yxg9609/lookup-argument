@@ -146,7 +146,7 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;eprint version&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
@@ -207,7 +207,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
   - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
   - [implementation](https://github.com/yugocabrio/oreno-lookup)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
   - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
@@ -325,7 +325,12 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 5.1 zk-SNARK
 - [BabySpartan: Lasso-based SNARK for non-uniform computation](https://eprint.iacr.org/2023/1799.pdf)
 ### 5.2 Blockchain zkVM zkEVM
-- [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)
+- [Cross-chain bridges via backwards-compatible SNARKs](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)&nbsp;&nbsp;(full version)&nbsp;&nbsp;uses Lasso&nbsp;&nbsp;EUROCRYPT 2024
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_1.pdf?pdf=inline%20link)
+  - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/297/slides.pdf)
+  - [video](https://www.youtube.com/watch?v=ebN-mt-P-Qw)
+  - [implementation](https://github.com/a16z/jolt)
 - [Proving CPU Executions in Small Space](https://eprint.iacr.org/2025/611.pdf)
 - [ZKWASM: A ZKSNARK WASM Emulator](https://ieeexplore.ieee.org/document/10587123)
   - [implementation](https://github.com/CPerezz/caulk_plus)
@@ -338,6 +343,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [zksync zkEVM](https://docs.zksync.io/zksync-protocol/circuits/zk-terminology)
 - [polygon zkEVM](https://docs.polygon.technology/zkEVM/architecture/proving-system/secondary-sms-lookup-tables/?h=lookup)
 ### 5.3 ZKML
+- [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3627703.3650088)&nbsp;&nbsp;&nbsp;uses halo2 lookup&nbsp;&nbsp;&nbsp;EuroSys 2024
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
   - [video](https://youtu.be/OXOcq4avvP8)
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
@@ -345,6 +351,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](https://eprint.iacr.org/2024/703.pdf)
+- [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)&nbsp;&nbsp;uses halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+  - [video](https://www.youtube.com/watch?v=Co5gNoHnMhs)
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](https://eprint.iacr.org/2025/535.pdf)
 
 
