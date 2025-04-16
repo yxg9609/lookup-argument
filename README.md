@@ -474,4 +474,6 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning
   - [eprint version](https://eprint.iacr.org/2025/535.pdf)
+
+
 [⬆️ Back to Contents](#Contents)
