@@ -61,7 +61,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 ## Foundation Knowledges of Lookup Arguments 
 [⬆️ Back to Contents](#Contents)
-[⬆️ 返回目录](#table-of-contents)
+
 ### SumCheck
 - [Multivariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/multivariate/Multivariate-Sum-Check-Protocol)
 - [Univariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/univariate/Univariate-Sum-Check-Protocol)
@@ -78,6 +78,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 - [Multiset Euqlity](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Permutation-Check-via-Product-Check)
 
 ## 1. Classification Based on Fundamental Mathematical Principles
+[⬆️ Back to Contents](#Contents)
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
@@ -90,7 +91,6 @@ Halo 2 lookup,      Plookup
 - [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
-  
 - [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 - [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](#Twist-and-Shout-Faster-memory-checking-arguments-via-one-hot-addressing-and-increments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ### 1.3 Based on logarithmic derivatives
@@ -106,107 +106,44 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)
 - [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkllm-zero-knowledge-proofs-for-large-language-models)
+- [(Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models](#Tlookup-zkllm-zero-knowledge-proofs-for-large-language-models)
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)
 - [SublonK: Sublinear Prover PlonK](#sublonk-sublinear-prover-plonk)
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)
 
-- [cq: Cached quotients for fast lookups](#cq-Cached quotients for fast lookupshttps://eprint.iacr.org/2022/1763.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
-  - [slides](https://aztec.slides.com/suyashbagad_aztec/cq-lookup)
-  - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
-  - [video 2](https://youtu.be/KQi3WdZvI6w)
-  - [implementation](https://github.com/geometryxyz/cq)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_11.pdf)
-  - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
-- [cqlin: Efficient linear operations on KZG commitments with cached quotients](https://eprint.iacr.org/2023/393.pdf)
-  - [slides](https://www.slideshare.net/slideshow/zkstudyclub-cqlin-efficient-linear-operations-on-kzg-commitments/258231653)
-  - [video](https://www.youtube.com/watch?v=mxvaThCgU9c)
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_13.pdf?pdf=inline%20link)
-  - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
-- [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
-  - [video](https://www.youtube.com/watch?v=DCEg61ExwK4&t=139s)
-- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
-  - [journal version](https://link.springer.com/content/pdf/10.1007/s00145-024-09535-0.pdf)
-  - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
-  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670334)
-  - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
-  - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
-  - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
-  - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
-- [SublonK: Sublinear Prover PlonK](https://eprint.iacr.org/2023/902.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [implementation](https://github.com/txaty/ark-segmentlookup)
-- [Succinct Non-Subsequence Arguments](https://eprint.iacr.org/2024/1264.pdf)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
-- [Soloist: Distributed SNARKs for Rank-One Constraint System](https://eprint.iacr.org/2025/557.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
-- [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620.pdf)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
-- [FLI: Folding Lookup Instances](https://eprint.iacr.org/2024/1531.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
-  - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_13)
-  - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/197/197_slides.pdf)
-- [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
-  - [implementation](https://github.com/geometryxyz/baloo?tab=readme-ov-file)
-- [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_7)
-  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
-  - [video](https://youtu.be/_WsCQc9Elcg)
-  - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
-  - [implementation](https://github.com/zkp-learning/Lasso)
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
-  - [conference version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
-  - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
-- [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [FLI: Folding Lookup Instances](#fli-folding-lookup-instances)
+- [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)
+- [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
-- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)&nbsp;&nbsp;&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
-  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3548606.3560646)
-  - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
-  - [slides](https://www.slideshare.net/AlexPruden/caulk-zkstudyclub-caulk-lookup-arguments-in-sublinear-time-a-zapico?from_search=0)
-  - [video](https://www.youtube.com/watch?v=uEssF2WzIeU)
-  - [implementation](https://github.com/caulk-crypto/caulk)
-- [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
-  - [implementation](https://github.com/CPerezz/caulk_plus)
-- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-- [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
-  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
+- [Caulk: Lookup_Arguments_in_Sublinear_Time](#caulk-lookup_arguments_in_sublinear_time)
+- [Caulk+: Table-independent_lookup_arguments](#caulk-table-independent_lookup_arguments)
+- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)
+- [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
+
 ## 2. Classification Based on Lookup Objects
+[⬆️ Back to Contents](#Contents)
 ### 2.1 Element Lookup
-- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
-  - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
-  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
-  - [implementation](https://github.com/kevaundray/plookup)
-- [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
-  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
-  - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
+- [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
+- [halo2](#halo2)
 
 ### 2.2 Vector lookup
-- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
-  - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
-  - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
-  - [implementation](https://github.com/yugocabrio/oreno-lookup)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
-  - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
-  - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/313/313_slides.pdf)
-  - [implementation](https://github.com/lucasxia01/mux-proofs-impl)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)
 ### 2.3 Matrix lookup
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_11.pdf)
-  - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)
+
 
 ## 3. Classification Based on Zero-Knowledge Property
+[⬆️ Back to Contents](#Contents)
 ### 3.1 Non-Zero-Knowledge
 - [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
@@ -259,6 +196,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 
 ## 4. Classification Based on Preprocessing and Updatability
+[⬆️ Back to Contents](#Contents)
 ### 4.1 Need preprocessing_Non-Updatable
 - [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
@@ -312,6 +250,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
 - [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ## 5. Applications of Lookup Arguments
+[⬆️ Back to Contents](#Contents)
 ### 5.1 zk-SNARK
 - [BabySpartan: Lasso-based SNARK for non-uniform computation](https://eprint.iacr.org/2023/1799.pdf)
 ### 5.2 Blockchain zkVM zkEVM
@@ -348,12 +287,13 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 
 ## 6. Other Resources
+[⬆️ Back to Contents](#Contents)
 - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
 - [Lookup review blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
 
 
 ## 7. Lookup Argument Related Papers Collection
-
+[⬆️ Back to Contents](#Contents)
 ### Lookup Argument Papers
 
 #### plookup: A simplified polynomial protocol for lookup tables
@@ -438,7 +378,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [journal version](https://link.springer.com/content/pdf/10.1007/s00145-024-09535-0.pdf)
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
 
-#### zkLLM: Zero Knowledge Proofs for Large Language Models
+#### (Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models
   - [full version](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
   - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670334)
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
@@ -499,4 +439,67 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ### Lookup Argument Application Papers
 
-#### 
+#### BabySpartan: Lasso-based SNARK for non-uniform computation
+  - [BabySpartan: Lasso-based SNARK for non-uniform computation](https://eprint.iacr.org/2023/1799.pdf)
+
+#### Cross-chain bridges via backwards-compatible SNARKs
+  - [Cross-chain bridges via backwards-compatible SNARKs](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+
+#### Jolt: SNARKs for Virtual Machines via Lookups
+  - [Jolt: SNARKs for Virtual Machines via Lookups](https://eprint.iacr.org/2023/1217)&nbsp;&nbsp;(full version)&nbsp;&nbsp;uses Lasso&nbsp;&nbsp;EUROCRYPT 2024
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_1.pdf?pdf=inline%20link)
+  - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/297/slides.pdf)
+  - [video](https://www.youtube.com/watch?v=ebN-mt-P-Qw)
+  - [implementation](https://github.com/a16z/jolt)
+
+#### Proving CPU Executions in Small Space
+  - [Proving CPU Executions in Small Space](https://eprint.iacr.org/2025/611.pdf)
+
+#### ZKWASM: A ZKSNARK WASM Emulator
+  - [ZKWASM: A ZKSNARK WASM Emulator](https://ieeexplore.ieee.org/document/10587123)
+  - [implementation](https://github.com/CPerezz/caulk_plus)
+
+#### Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM
+  - [Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM](https://eprint.iacr.org/2023/1115.pdf)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+
+#### Zero Knowledge Memory-Checking Techniques for Stacks and Queues
+  - [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](https://eprint.iacr.org/2024/2084.pdf)
+
+#### Nebula: Efficient read-write memory and switchboard circuits for folding schemes
+  - [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](https://eprint.iacr.org/2024/1605.pdf)&nbsp;&nbsp;&nbsp;&nbsp;based on Lasso
+
+#### Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines
+  - [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](https://eprint.iacr.org/2023/1555.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+
+#### scroll zkEVM
+  - [scroll zkEVM](https://www.slideshare.net/slideshow/zkevm-circuit-arithmetization-by-ye-zhang/267299055)
+
+#### zksync zkEVM
+  - [zksync zkEVM](https://docs.zksync.io/zksync-protocol/circuits/zk-terminology)
+
+#### polygon zkEVM
+  - [polygon zkEVM](https://docs.polygon.technology/zkEVM/architecture/proving-system/secondary-sms-lookup-tables/?h=lookup)
+
+#### ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs
+  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3627703.3650088)&nbsp;&nbsp;&nbsp;uses halo2 lookup&nbsp;&nbsp;&nbsp;EuroSys 2024
+
+#### Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning
+  - [full version](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+  - [video](https://youtu.be/OXOcq4avvP8)
+  - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
+  - [implementation](https://github.com/CryptMatrix/ZKMath)
+
+#### zkLLM: Zero Knowledge Proofs for Large Language Models
+  - [full version](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670334)
+  - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
+
+#### An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks
+  - [eprint version](https://eprint.iacr.org/2024/703.pdf)
+
+#### Scaling up Trustless DNN Inference with Zero-Knowledge Proofs
+  - [eprint version](https://arxiv.org/abs/2210.08674)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uses halo2 lookupn
+  - [video](https://www.youtube.com/watch?v=Co5gNoHnMhs)
+
+#### zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning
+  - [eprint version](https://eprint.iacr.org/2025/535.pdf)
