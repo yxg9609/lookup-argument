@@ -53,7 +53,6 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 
 - [6. Other Resources](#6-Other-Resources)
-  - Lookup Overviews
  
 - [7. Lookup Argument Related Papers Collection](#7-Lookup-Argument-Related-Papers-Collection)
   - [Lookup Argument Papers](#Lookup-Argument-Papers)
@@ -81,15 +80,11 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
 - [halo2](#halo2)
-- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
 
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
-- [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CRYPTO 2020
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-030-56877-1_25.pdf)
-  - [slides](https://iacr.org/submit/files/slides/2020/crypto/crypto2020/304/slides.pptx)
-  - [video](https://www.youtube.com/watch?v=FPQs7T7f_AU)
-  - [implementation](https://github.com/microsoft/Spartan)
+- [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](#Spartan-Efficient-and-general-purpose-zkSNARKs-without-trusted-setup)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRYPTO 2020
 - [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_7)
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
@@ -356,7 +351,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ## 6. Other Resources
 - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
-- [blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
+- [Lookup review blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
 
 
 ## 7. Lookup Argument Related Papers Collection
