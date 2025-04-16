@@ -78,7 +78,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 ## 1. Classification Based on Fundamental Mathematical Principles
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
@@ -194,7 +194,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
 ## 2. Classification Based on Lookup Objects
 ### 2.1 Element Lookup
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
@@ -222,7 +222,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ## 3. Classification Based on Zero-Knowledge Property
 ### 3.1 Non-Zero-Knowledge
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
@@ -309,7 +309,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
 ### 4.2 No preprocessing_Updatable
-- [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
