@@ -85,20 +85,10 @@ Halo 2 lookup,      Plookup
 ### 1.2 Based on memory checking
 (spartan),     GKR version in lasso
 - [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](#Spartan-Efficient-and-general-purpose-zkSNARKs-without-trusted-setup)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRYPTO 2020
-- [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_7)
-  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
-  - [video](https://youtu.be/_WsCQc9Elcg)
-  - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
-  - [implementation](https://github.com/zkp-learning/Lasso)
-- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](https://eprint.iacr.org/2025/507.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
-  - [conference version](https://www.usenix.org/system/files/usenixsecurity24-hao-meng-scalable.pdf)
-  - [video](https://youtu.be/OXOcq4avvP8)
-  - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
-  - [implementation](https://github.com/CryptMatrix/ZKMath)
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
-  - [conference version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
-  - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
+- [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#(zklasso)SNARKs for Virtual Machines are Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+  
 - [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [blog](https://www.lita.foundation/blog/tassle-tensors-and-sumcheck-for-structured-lookup-efficiency)
 - [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](https://eprint.iacr.org/2025/105.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
