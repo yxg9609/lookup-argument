@@ -89,23 +89,29 @@ Halo 2 lookup,      Plookup
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
   
-- [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [blog](https://www.lita.foundation/blog/tassle-tensors-and-sumcheck-for-structured-lookup-efficiency)
-- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](https://eprint.iacr.org/2025/105.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](#Twist-and-Shout-Faster-memory-checking-arguments-via-one-hot-addressing-and-increments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
-cq+  （Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees）
-cqlin   
-Locq  Efficient KZG-based Univariate Sum-check and Lookup Argument
-logup+GKR（Improving logarithmic derivative lookups using GKR）
-μ-seek（Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them）
-Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
-- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
-  - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
-  - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
-  - [implementation](https://github.com/yugocabrio/oreno-lookup)
-- [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+cq+   (Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees)
+Locq  (Efficient KZG-based Univariate Sum-check and Lookup Argument)
+logup+GKR (Improving logarithmic derivative lookups using GKR)
+μ-seek  (Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them)
+Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)
+- [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
+- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkllm-zero-knowledge-proofs-for-large-language-models)
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)
+- [SublonK: Sublinear Prover PlonK](#sublonk-sublinear-prover-plonk)
+- [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)
+- [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)
+- [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)
+
+- [cq: Cached quotients for fast lookups](#cq-Cached quotients for fast lookupshttps://eprint.iacr.org/2022/1763.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/cq-lookup)
   - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
