@@ -56,7 +56,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   - Lookup Overviews
  
 - [7. Lookup Argument Related Papers Collection](#7-Lookup-Argument-Related-Papers-Collection)
-  - [plookup: A simplified polynomial protocol for lookup tables](#plookup:-A-simplified-polynomial-protocol-for-lookup-tables)
+  - [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
 ---
 
 ## Foundation Knowledges of Lookup Arguments
