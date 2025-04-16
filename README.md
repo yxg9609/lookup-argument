@@ -87,7 +87,7 @@ Halo 2 lookup,      Plookup
 - [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](#Spartan-Efficient-and-general-purpose-zkSNARKs-without-trusted-setup)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRYPTO 2020
 - [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#(zklasso)SNARKs for Virtual Machines are Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#(zklasso)SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
   
 - [TaSSLE: Lasso for the commitment-phobic](https://eprint.iacr.org/2024/1075.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
   - [blog](https://www.lita.foundation/blog/tassle-tensors-and-sumcheck-for-structured-lookup-efficiency)
