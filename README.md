@@ -80,12 +80,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
 - [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
-- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
-  - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
-  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
-  - [implementation](https://github.com/kevaundray/plookup)
+- [halo2](#halo2)
 - [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
@@ -371,9 +366,20 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 7. Lookup Argument Related Papers Collection
 ### Lookup Argument Papers
 #### plookup: A simplified polynomial protocol for lookup tables
-  - [eprint version](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+  - [eprint version](https://eprint.iacr.org/2020/315.pdf)
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
   - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
   - [implementation](https://github.com/kevaundray/plookup)
+#### halo2
+  - [halo2 book](https://zcash.github.io/halo2/design/proving-system/lookup.html)
+  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
+  - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
+
+
+
+
+### Lookup Argument Application Papers
+#### 
