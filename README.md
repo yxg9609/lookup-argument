@@ -61,6 +61,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 ## Foundation Knowledges of Lookup Arguments 
 [⬆️ Back to Contents](#Contents)
+[⬆️ 返回目录](#table-of-contents)
 ### SumCheck
 - [Multivariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/multivariate/Multivariate-Sum-Check-Protocol)
 - [Univariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/univariate/Univariate-Sum-Check-Protocol)
