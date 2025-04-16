@@ -20,7 +20,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 > 💡 Feel free to open a pull request if you have something useful to contribute!
 
 ---
-## 📌 Contents
+## 📌 Contents <a name="contents"></a>
 - [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
   - [Sumcheck](#SumCheck)
   - [Polynomial Commitments](#Polynomial-Commitments)
@@ -59,7 +59,8 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   - [Lookup Argument Application Papers](#Lookup-Argument-Application-Papers)
 ---
 
-## Foundation Knowledges of Lookup Arguments
+## Foundation Knowledges of Lookup Arguments 
+[⬆️ Back to Contents](#Contents)
 ### SumCheck
 - [Multivariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/multivariate/Multivariate-Sum-Check-Protocol)
 - [Univariate Sum-Check Protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/univariate/Univariate-Sum-Check-Protocol)
