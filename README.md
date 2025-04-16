@@ -144,7 +144,8 @@ Tlookup（zkLLM: Zero Knowledge Proofs for Large Language Models）
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
   - [journal version](https://link.springer.com/content/pdf/10.1007/s00145-024-09535-0.pdf)
   - [video](https://www.youtube.com/watch?v=eRKn5uFK0V0)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670334)
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](https://eprint.iacr.org/2023/974.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [conference version](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_8)
@@ -348,7 +349,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [video](https://youtu.be/OXOcq4avvP8)
   - [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-hao-meng-scalable.pdf)
   - [implementation](https://github.com/CryptMatrix/ZKMath)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](https://arxiv.org/pdf/2404.16109)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670334)
   - [implementation](https://github.com/jvhs0706/zkllm-ccs2024)
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](https://eprint.iacr.org/2024/703.pdf)
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)&nbsp;&nbsp;uses halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint version
