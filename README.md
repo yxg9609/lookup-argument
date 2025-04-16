@@ -54,6 +54,9 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 - [6. Other Resources](#6-Other-Resources)
   - Lookup Overviews
+ 
+- [7. Lookup Argument Related Papers Collection](#7-Lookup-Argument-Related-Papers-Collection)
+  - [plookup: A simplified polynomial protocol for lookup tables](#plookup:-A-simplified-polynomial-protocol-for-lookup-tables)
 ---
 
 ## Foundation Knowledges of Lookup Arguments
@@ -361,3 +364,14 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 6. Other Resources
 - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
 - [blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
+
+
+## 7. Lookup Argument Related Papers Collection
+
+### plookup: A simplified polynomial protocol for lookup tables
+  - [eprint version](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
+  - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
+  - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
+  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
+  - [implementation](https://github.com/kevaundray/plookup)
