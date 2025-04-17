@@ -1,4 +1,11 @@
 # Lookup Arguments
+<details>
+<summary>点击展开查看 BabySpartan</summary>
+
+#### BabySpartan: Lasso-based SNARK for non-uniform computation
+- [eprint version](https://eprint.iacr.org/2023/1799.pdf)
+
+</details>
 
 ## 🔄 Keeping Your Fork Updated
 
@@ -149,7 +156,6 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [halo2](#halo2)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)
 - [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-
 - [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)
 - [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
 
@@ -159,56 +165,29 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ### 3.3 Fully Zero-Knowledge
 - [Caulk: Lookup Arguments in Sublinear Time](#caulk-lookup-arguments-in-sublinear-time)
-- [Caulk+: Table-independent lookup arguments](#caulk+-table-independent-lookup-arguments)
+- [Caulk+: Table-independent lookup arguments](#caulk-table-independent-lookup-arguments)
 - [zkcq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)
-
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_13.pdf?pdf=inline%20link)
-  - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
-- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](https://eprint.iacr.org/2024/1551.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
-  - [conference version](https://hal.science/hal-04991788v1/file/publi-8049.pdf)
-  - [video](https://www.youtube.com/watch?v=gPV0T9YIrH4)
-- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)
-
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)
+- [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
 
 
 ## 4. Classification Based on Preprocessing and Updatability
 [⬆️ Back to Contents](#Contents)
 ### 4.1 Need preprocessing_Non-Updatable
-- [Multivariate lookups based on logarithmic derivatives(Logup)](https://eprint.iacr.org/2022/1530.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes 1](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
-  - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
-  - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
-  - [implementation](https://github.com/yugocabrio/oreno-lookup)
-- [cq: Cached quotients for fast lookups](https://eprint.iacr.org/2022/1763.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
-  - [notes](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Lookup-Arguments/LogUp--and--cq)
-  - [slides](https://aztec.slides.com/suyashbagad_aztec/cq-lookup)
-  - [video 1](https://www.youtube.com/watch?v=HJPOfkBcldE&t=357s)
-  - [video 2](https://youtu.be/KQi3WdZvI6w)
-  - [implementation](https://github.com/geometryxyz/cq)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](https://eprint.iacr.org/2023/1518.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_11.pdf)
-  - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/48/slides.pdf)
+- [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)
+- [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
+- [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)
+- [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+- [Caulk: Lookup Arguments in Sublinear Time](#caulk-lookup-arguments-in-sublinear-time)
+- [Caulk+: Table-independent lookup arguments](#caulk-table-independent-lookup-arguments)
+- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)
 
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](https://eprint.iacr.org/2024/618.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-57722-2_13.pdf?pdf=inline%20link)
-  - [slides](https://iacr.org/submit/files/slides/2024/pkc/pkc2024/99/slides.pdf)
-- [Improving logarithmic derivative lookups using GKR](https://eprint.iacr.org/2023/1284.pdf)
-- [Baloo: Nearly Optimal Lookup Arguments](https://eprint.iacr.org/2022/1565.pdf)
-  - [notes](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/baloo-en)
-- [Unlocking_the_lookup_singularity_with_Lasso](https://eprint.iacr.org/2023/1216.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_7)
-  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/tree/master/lookup-arguments/lasso-zh)
-  - [video](https://youtu.be/_WsCQc9Elcg)
-  - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
-  - [implementation](https://github.com/zkp-learning/Lasso)
-- [Caulk: Lookup_Arguments_in_Sublinear_Time](https://eprint.iacr.org/2022/621.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
-  - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
-  - [slides](https://www.slideshare.net/AlexPruden/caulk-zkstudyclub-caulk-lookup-arguments-in-sublinear-time-a-zapico?from_search=0)
-  - [video](https://www.youtube.com/watch?v=uEssF2WzIeU)
-- [Caulk+: Table-independent_lookup_arguments](https://eprint.iacr.org/2022/957.pdf)
-  - [notes](https://asdavinci.ing/post/caulk-caulk+note/)
-- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](https://eprint.iacr.org/2022/1447.pdf)
+
+
 ### 4.2 No preprocessing_Updatable
 - [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
@@ -223,9 +202,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 
 ### 4.3 Need preprocessing_Updatable
-- [Batching-Efficient RAM using Updatable Lookup Arguments](https://eprint.iacr.org/2024/840.pdf)&nbsp;&nbsp;(full version)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
-  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3670356)
-- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](https://eprint.iacr.org/2024/1509.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
+
 ## 5. Applications of Lookup Arguments
 [⬆️ Back to Contents](#Contents)
 ### 5.1 zk-SNARK
