@@ -156,7 +156,7 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
-- [(mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#mem-update-Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)nbsp;&nbsp;&nbsp;&nbsp;based on LogUpnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [(mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#mem-update-Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;based on LogUpnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
