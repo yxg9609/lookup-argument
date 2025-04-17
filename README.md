@@ -85,6 +85,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 <details open>
 <summary><strong>6. Other Resources</strong></summary>
+  
   - [6.1 Text Resources](#61-Text-Resources)
   - [6.2 Video Resources](#62-Video-Resources)
 
