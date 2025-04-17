@@ -49,18 +49,18 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 <details open>
 <summary><strong>2. Classification Based on Lookup Objects</strong></summary>
 
-    - [2.1 Element lookup](#21-Element-lookup)
-    - [2.2 Vector lookup](#22-Vector-lookup)
-    - [2.3 Matrix lookup](#23-Matrix-lookup)
+  - [2.1 Element lookup](#21-Element-lookup)
+  - [2.2 Vector lookup](#22-Vector-lookup)
+  - [2.3 Matrix lookup](#23-Matrix-lookup)
 
 </details>
 
 <details open>
 <summary><strong>3. Classification Based on Zero-Knowledge Property</strong></summary>
   
-    - [3.1 Non-Zero-Knowledge](#31-Non-Zero-Knowledge)
-    - [3.2 Partial Zero-Knowledge](#32-Partial-Zero-Knowledge)
-    - [3.3 Fully Zero-Knowledge](#33-Fully-Zero-Knowledge)
+  - [3.1 Non-Zero-Knowledge](#31-Non-Zero-Knowledge)
+  - [3.2 Partial Zero-Knowledge](#32-Partial-Zero-Knowledge)
+  - [3.3 Fully Zero-Knowledge](#33-Fully-Zero-Knowledge)
 
 </details>
 
@@ -68,33 +68,33 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 <details open>
 <summary><strong>4. Classification Based on Preprocessing and Updatability</strong></summary>
   
-    - [4.1 Need preprocessing_Non-Updatable](#41-Need-preprocessing_Non-Updatable)
-    - [4.2 No_preprocessing_Updatable](#42-No-preprocessing_Updatable)
-    - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
+  - [4.1 Need preprocessing_Non-Updatable](#41-Need-preprocessing_Non-Updatable)
+  - [4.2 No_preprocessing_Updatable](#42-No-preprocessing_Updatable)
+  - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
 
 </details>
 
 <details open>
   <summary><strong>5. Applications of Lookup Arguments</strong></summary>
 
-    - [5.1 zk-SNARK](#51-zk-SNARK)
-    - [5.2 Blockchain zkVM zkEVM](#52-Blockchain-zkVM-zkEVM)
-    - [5.3 ZKML](#53-ZKML)
+  - [5.1 zk-SNARK](#51-zk-SNARK)
+  - [5.2 Blockchain zkVM zkEVM](#52-Blockchain-zkVM-zkEVM)
+  - [5.3 ZKML](#53-ZKML)
 
 </details>
 
 <details open>
 <summary><strong>6. Other Resources</strong></summary>
-    - [6.1 Text Resources](#61-Text-Resources)
-    - [6.2 Video Resources](#62-Video-Resources)
+  - [6.1 Text Resources](#61-Text-Resources)
+  - [6.2 Video Resources](#62-Video-Resources)
 
 </details>
 
 <details open>
 <summary><strong>7. Lookup Argument Related Papers Collection</strong></summary>
 
-    - [7.1 Lookup Argument Papers](#71-Lookup-Argument-Papers)
-    - [7.2 Lookup Argument Application Papers](#72-Lookup-Argument-Application-Papers)
+  - [7.1 Lookup Argument Papers](#71-Lookup-Argument-Papers)
+  - [7.2 Lookup Argument Application Papers](#72-Lookup-Argument-Application-Papers)
 
 </details>
 
