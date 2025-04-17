@@ -124,8 +124,8 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
-- [Caulk: Lookup_Arguments_in_Sublinear_Time](#caulk-lookup_arguments_in_sublinear_time)
-- [Caulk+: Table-independent_lookup_arguments](#caulk-table-independent_lookup_arguments)
+- [Caulk: Lookup_Arguments_in_Sublinear_Time](#caulk-lookup-arguments-in-sublinear-time)
+- [Caulk+: Table-independent_lookup_arguments](#caulk+-table-independent-lookup-arguments)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)
 - [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
 
