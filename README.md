@@ -146,20 +146,20 @@ logup+GKR (Improving logarithmic derivative lookups using GKR)
 Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 - [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)
-- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+- [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)
-- [(Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models](#Tlookup-zkllm-zero-knowledge-proofs-for-large-language-models)
-- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)
+- [(Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models](#Tlookup-zkllm-zero-knowledge-proofs-for-large-language-models)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
+- [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 - [SublonK: Sublinear Prover PlonK](#sublonk-sublinear-prover-plonk)
-- [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)
-- [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)
-- [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)
+- [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
+- [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
+- [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
-- [FLI: Folding Lookup Instances](#fli-folding-lookup-instances)
+- [FLI: Folding Lookup Instances](#fli-folding-lookup-instances)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 - [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)
 - [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
@@ -168,10 +168,10 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
-- [Caulk: Lookup Arguments in Sublinear Time](#caulk-lookup-arguments-in-sublinear-time)
+- [Caulk: Lookup Arguments in Sublinear Time](#caulk-lookup-arguments-in-sublinear-time)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
 - [Caulk+: Table-independent lookup arguments](#caulk-table-independent-lookup-arguments)
 - [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)
-- [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
+- [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 
 ## 2. Classification Based on Lookup Objects
 [⬆️ Back to Contents](#Contents)
