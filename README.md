@@ -1,11 +1,4 @@
 # Lookup Arguments
-<details>
-<summary>点击展开查看 BabySpartan</summary>
-
-#### BabySpartan: Lasso-based SNARK for non-uniform computation
-- [eprint version](https://eprint.iacr.org/2023/1799.pdf)
-
-</details>
 
 ## 🔄 Keeping Your Fork Updated
 
@@ -35,6 +28,21 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   - [Logarithmic Derivative](#Logarithmic-Derivative)
   - [Offline Memory Checking](#Offline-Memory-Checking)
   - [Multiset Euqlity](#Multiset-Euqlity)
+
+## <span id="foundation-knowledges-of-lookup-arguments">Foundation Knowledges of Lookup Arguments</span>
+
+<details open>
+<summary><strong>Foundation Knowledges of Lookup Arguments</strong></summary>
+
+- [Sumcheck](#sumcheck)
+- [Polynomial Commitments](#polynomial-commitments)
+- [Low Degree and Multilinear Extensions](#low-degree-and-multilinear-extensions)
+- [Logarithmic Derivative](#logarithmic-derivative)
+- [Offline Memory Checking](#offline-memory-checking)
+- [Multiset Euqlity](#multiset-euqlity)
+
+</details>
+
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
