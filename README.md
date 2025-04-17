@@ -85,8 +85,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 <details open>
 <summary><strong>6. Other Resources</strong></summary>
-  - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
-  - [Lookup review blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
+  - [6. Other Resources](#6-Other-Resources)
 
 </details>
 
