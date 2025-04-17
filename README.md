@@ -53,7 +53,6 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
     - [2.2 Vector lookup](#22-Vector-lookup)
     - [2.3 Matrix lookup](#23-Matrix-lookup)
 
-
 </details>
 
 <details open>
