@@ -21,8 +21,6 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 ---
 ## 📌 Contents <a name="contents"></a>
-- [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
-
 
 <details open>
 <summary><strong>Foundation Knowledges of Lookup Arguments</strong></summary>
@@ -47,35 +45,61 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 </details>
 
-- [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
-  - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
-  - [1.2 Based on memory checking](#12-Based-on-memory-checking)
-  - [1.3 Based on logarithmic derivatives](#13-Based-on-logarithmic-derivatives)
-  - [1.4 Based on Matrix vector multiplication](#14-Based-on-Matrix-vector-multiplication)
-  - [1.5 Based on vanishing polynomial](#15-Based-on-vanishing-polynomial)
-- [2. Classification Based on Lookup Objects](#2-Classification-Based-on-Lookup-Objects)
+<details open>
+<summary><strong>2. Classification Based on Lookup Objects</strong></summary>
+
   - [2.1 Element lookup](#21-Element-lookup)
   - [2.2 Vector lookup](#22-Vector-lookup)
   - [2.3 Matrix lookup](#23-Matrix-lookup)
-- [3. Classification Based on Zero-Knowledge Property](#3-Classification-Based-on-Zero-Knowledge-Property)
+
+
+</details>
+
+<details open>
+<summary><strong>3. Classification Based on Zero-Knowledge Property</strong></summary>
+  
   - [3.1 Non-Zero-Knowledge](#31-Non-Zero-Knowledge)
   - [3.2 Partial Zero-Knowledge](#32-Partial-Zero-Knowledge)
   - [3.3 Fully Zero-Knowledge](#33-Fully-Zero-Knowledge)
-- [4. Classification Based on Preprocessing and Updatability](#4-Classification-Based-on-Preprocessing-and-Updatability)
+
+</details>
+
+
+<details open>
+<summary><strong>4. Classification Based on Preprocessing and Updatability</strong></summary>
+  
   - [4.1 Need preprocessing_Non-Updatable](#41-Need-preprocessing_Non-Updatable)
   - [4.2 No_preprocessing_Updatable](#42-No-preprocessing_Updatable)
   - [4.3 Need preprocessing_Updatable](#43-Need-preprocessing_Updatable)
-- [5. Applications of Lookup Arguments](#5-Applications-of-Lookup-Arguments)
+
+</details>
+
+<details open>
+<summary><strong>5. Applications of Lookup Arguments</strong></summary>
+
   - [5.1 zk-SNARK](#51-zk-SNARK)
   - [5.2 Blockchain zkVM zkEVM](#52-Blockchain-zkVM-zkEVM)
   - [5.3 ZKML](#53-ZKML)
 
+</details>
 
-- [6. Other Resources](#6-Other-Resources)
- 
-- [7. Lookup Argument Related Papers Collection](#7-Lookup-Argument-Related-Papers-Collection)
+<details open>
+<summary><strong>6. Other Resources</strong></summary>
+  - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
+  - [Lookup review blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
+
+</details>
+
+<details open>
+<summary><strong>7. Lookup Argument Related Papers Collection</strong></summary>
+
   - [Lookup Argument Papers](#Lookup-Argument-Papers)
   - [Lookup Argument Application Papers](#Lookup-Argument-Application-Papers)
+
+</details>
+
+
+
 ---
 
 ## Foundation Knowledges of Lookup Arguments 
