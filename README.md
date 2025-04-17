@@ -22,6 +22,18 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 ---
 ## 📌 Contents <a name="contents"></a>
 
+## 📘 Foundation Knowledges of Lookup Arguments
+<a name="foundation-knowledges-of-lookup-arguments"></a>
+
+<details>
+<summary><strong>展开子目录</strong></summary>
+
+- [Sumcheck](#sumcheck)
+- [Polynomial Commitments](#polynomial-commitments)
+- ...
+
+</details>
+
 <details open>
 <summary><strong>Foundation Knowledges of Lookup Arguments</strong></summary>
 
