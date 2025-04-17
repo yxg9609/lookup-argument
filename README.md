@@ -156,7 +156,7 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
-- [(mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#mem-update-Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;based on LogUpnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update)based on LogUpnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
@@ -395,7 +395,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [slides](https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/84/slides.pptx)
   - [implementation](https://github.com/geometryxyz/protostar)
 
-#### (mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations
+#### Proofs for Deep Thought: Accumulation for large memories and deterministic computations
   - [full version](https://eprint.iacr.org/2024/325.pdf)
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-96-0935-2_9.pdf?pdf=inline%20link)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/16/16_slides.pptx)
