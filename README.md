@@ -23,6 +23,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 ## 📌 Contents <a name="contents"></a>
 
 ## 📘 Foundation Knowledges of Lookup Arguments
+- [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
 <a name="foundation-knowledges-of-lookup-arguments"></a>
 
 <details>
