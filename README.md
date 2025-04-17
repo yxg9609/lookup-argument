@@ -22,27 +22,6 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 ---
 ## 📌 Contents <a name="contents"></a>
 - [Foundation Knowledges of Lookup Arguments](#Foundation-Knowledges-of-Lookup-Arguments)
-  - [Sumcheck](#SumCheck)
-  - [Polynomial Commitments](#Polynomial-Commitments)
-  - [Low Degree and Multilinear Extensions](#Low-Degree-and-Multilinear-Extensions)
-  - [Logarithmic Derivative](#Logarithmic-Derivative)
-  - [Offline Memory Checking](#Offline-Memory-Checking)
-  - [Multiset Euqlity](#Multiset-Euqlity)
-
-## Foundation Knowledges of Lookup Arguments
-<a name="foundation-knowledges-of-lookup-arguments"></a>
-
-<details open>
-<summary><strong>📘 展开阅读子主题</strong></summary>
-
-- [Sumcheck](#sumcheck)
-- [Polynomial Commitments](#polynomial-commitments)
-- [Low Degree and Multilinear Extensions](#low-degree-and-multilinear-extensions)
-- [Logarithmic Derivative](#logarithmic-derivative)
-- [Offline Memory Checking](#offline-memory-checking)
-- [Multiset Euqlity](#multiset-euqlity)
-
-</details>
 
 
 <details open>
