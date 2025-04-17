@@ -156,7 +156,7 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
-- [(mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations]
+- [(mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#mem-update-Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)nbsp;&nbsp;&nbsp;&nbsp;based on LogUpnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
@@ -274,6 +274,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 6.1 Text Resources
 - [A brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
 - [Lookup review blog](https://eigenlab.medium.com/a-review-of-lookup-arguments-edecf6aa73cb)
+- [An Overview of SNARKs Including Lookup](https://www.alpenlabs.io/blog/current-state-of-snarks)
 ### 6.2 Video Resources
 
 ## 7. Lookup Argument Related Papers Collection
@@ -393,6 +394,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [video](https://www.youtube.com/watch?v=wtxVYiZh7zc)
   - [slides](https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/84/slides.pptx)
   - [implementation](https://github.com/geometryxyz/protostar)
+
+#### (mem-update)Proofs for Deep Thought: Accumulation for large memories and deterministic computations
+  - [full version](https://eprint.iacr.org/2024/325.pdf)
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-96-0935-2_9.pdf?pdf=inline%20link)
+  - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/16/16_slides.pptx)
 
 #### FLI: Folding Lookup Instances
   - [full version](https://eprint.iacr.org/2024/1531.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
