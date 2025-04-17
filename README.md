@@ -36,6 +36,17 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
 </details>
 
+<details open>
+<summary><strong>1. Classification Based on Fundamental Mathematical Principles</strong></summary>
+
+  - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
+  - [1.2 Based on memory checking](#12-Based-on-memory-checking)
+  - [1.3 Based on logarithmic derivatives](#13-Based-on-logarithmic-derivatives)
+  - [1.4 Based on Matrix vector multiplication](#14-Based-on-Matrix-vector-multiplication)
+  - [1.5 Based on vanishing polynomial](#15-Based-on-vanishing-polynomial)
+
+</details>
+
 - [1. Classification Based on Fundamental Mathematical Principles](#1-Classification-Based-on-Fundamental-Mathematical-Principles)
   - [1.1 Based on multiset equality](#11-Based-on-multiset-equality)
   - [1.2 Based on memory checking](#12-Based-on-memory-checking)
