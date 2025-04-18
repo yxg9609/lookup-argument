@@ -139,9 +139,7 @@ Halo 2 lookup,      Plookup
 
   Lasso involves a well-formation check to guarantee the correctness of certain polynomials committed during the protocol. In Lasso, this is done by offline memory checking techniques from Spartan
 
-- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
 
-  optimization builds on [Lasso](#Unlocking-the-lookup-singularity-with-Lasso). handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 - [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
@@ -164,6 +162,9 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
 
    inspired by [Lasso](#Unlocking-the-lookup-singularity-with-Lasso), GKR is introduced to further enhance Lookup performance. 
+- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
+
+  optimization builds on [Lasso](#Unlocking-the-lookup-singularity-with-Lasso). handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)
 - [(Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models](#Tlookup-zkllm-zero-knowledge-proofs-for-large-language-models)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
@@ -171,13 +172,18 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
-- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update)based on LogUpnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update)based on LogU&pnbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 - [FLI: Folding Lookup Instances](#fli-folding-lookup-instances)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 - [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)
 - [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+
+  main part is based on MVM, the well-formation check to guarantee the correctness of certain polynomials committed during the protocol is done by offline memory checking techniques from Spartan
+- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
+
+  optimization builds on [Lasso](#Unlocking-the-lookup-singularity-with-Lasso)，main part is based on MVM. handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 - [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 
@@ -442,7 +448,7 @@ zkDatabase zcash
   - [implementation](https://github.com/geometryxyz/protostar)
 
 #### Proofs for Deep Thought: Accumulation for large memories and deterministic computations
-  - [full version](https://eprint.iacr.org/2024/325.pdf)
+  - [full version](https://eprint.iacr.org/2024/325.pdf)&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-96-0935-2_9.pdf?pdf=inline%20link)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/16/16_slides.pptx)
 
