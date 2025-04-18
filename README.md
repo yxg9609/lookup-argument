@@ -78,8 +78,11 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   <summary><strong>5. Applications of Lookup Arguments</strong></summary>
 
   - [5.1 zk-SNARK](#51-zk-SNARK)
-  - [5.2 Blockchain zkVM zkEVM](#52-Blockchain-zkVM-zkEVM)
-  - [5.3 ZKML](#53-ZKML)
+  - [5.2 Blockchain](#52-Blockchain)
+  - [5.3 zkVM zkEVM](#53-zkVM-zkEVM)
+  - [5.4 Privacy Identity Verification](#54-Privacy-Identity-Verification)
+  - [5.5 ZKML](#55-ZKML)
+  - [5.6 Verifiable Computation](#56-verifiable-computation)
 
 </details>
 
@@ -153,6 +156,8 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
+
+   inspired by [Lasso](#Unlocking-the-lookup-singularity-with-Lasso), GKR is introduced to further enhance Lookup performance. 
 - [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)
 - [(Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models](#Tlookup-zkllm-zero-knowledge-proofs-for-large-language-models)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
@@ -260,8 +265,14 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More](https://eprint.iacr.org/2025/238.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202502
 
   based on Lasso. yields the first lookup argument for unstructured tables in which the prover is sublinear in the size of the table, while making only black-box use of a VC and thus allowing instantiations from generic assumptions such as collision-resistant hash functions. Prior lookup arguments with sublinear provers were only known with non-black-box use of cryptographic primitives, or from pairings. 
-### 5.2 Blockchain zkVM zkEVM
+### 5.2 Blockchain
+  blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)
+
+
+### 5.3 zkVM zkEVM
+  Express logical operations, memory consistency checking, and control flow structures at a low constraint cost（e.g. XOR, AND, range）
+  Memory models and lookup arguments play a role in defining how memory is accessed and verified.
 - [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)
 - [Proving CPU Executions in Small Space](#Proving-CPU-Executions-in-Small-Space)
 - [ZKWASM: A ZKSNARK WASM Emulator](#ZKWASM-A-ZKSNARK-WASM-Emulator)
@@ -273,13 +284,21 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [scroll zkEVM](#scroll-zkEVM)
 - [zksync zkEVM](#zksync-zkEVM)
 - [polygon zkEVM](#polygon-zkEVM)
-### 5.3 ZKML
+  LogUp is crucial for performance in the Polygon ZKEVM, where they need to split the whole table into several STARK modules. These modules have to be linked correctly, and cross-table lookups enforce this.
+### 5.4 Privacy Identity Verification
+  zkDID zkLogin
+### 5.5 ZKML
+  Efficiently verify nonlinear calculations in neural networks using lookup argument
 - [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkLLM-Zero-Knowledge-Proofs-for-Large-Language-Models)
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](#An-Efficient-and-Extensible-Zero-knowledge-Proof-Framework-for-Neural-Networks)
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)
+
+### 5.6 Verifiable Computation
+zkDatabase zcash 
+
 
 ## 6. Other Resources
 [⬆️ Back to Contents](#Contents)
@@ -375,6 +394,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 #### Improving logarithmic derivative lookups using GKR
   - [eprint version](https://eprint.iacr.org/2023/1284.pdf)
   - [video](https://www.youtube.com/watch?v=DCEg61ExwK4&t=139s)
+  - [blog](https://blog.kroma.network/from-halo2-lookup-logup-to-logup-gkr-4af3bf143d38)
 
 #### Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them
 - [full version](https://eprint.iacr.org/2024/1058.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
