@@ -80,7 +80,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   - [5.1 zk-SNARK](#51-zk-SNARK)
   - [5.2 Blockchain](#52-Blockchain)
   - [5.3 zkVM zkEVM](#53-zkVM-zkEVM)
-  - [5.4 Privacy Identity Verification](#54-Privacy-Identity-Verification)
+  - [5.4 Privacy Authentication](#54-Privacy-Authentication)
   - [5.5 ZKML](#55-ZKML)
   - [5.6 Verifiable Computation](#56-verifiable-computation)
 
@@ -133,9 +133,15 @@ Halo 2 lookup,      Plookup
 - [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
 
 ### 1.2 Based on memory checking
-(spartan),     GKR version in lasso
+(spartan),     part of lasso
 - [Spartan:Efficient and general-purpose zkSNARKs without trusted setup](#Spartan-Efficient-and-general-purpose-zkSNARKs-without-trusted-setup)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRYPTO 2020
 - [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+
+  Lasso involves a well-formation check to guarantee the correctness of certain polynomials committed during the protocol. In Lasso, this is done by offline memory checking techniques from Spartan
+
+- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
+
+  optimization builds on [Lasso](#Unlocking-the-lookup-singularity-with-Lasso). handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 - [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
@@ -285,8 +291,10 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [zksync zkEVM](#zksync-zkEVM)
 - [polygon zkEVM](#polygon-zkEVM)
   LogUp is crucial for performance in the Polygon ZKEVM, where they need to split the whole table into several STARK modules. These modules have to be linked correctly, and cross-table lookups enforce this.
-### 5.4 Privacy Identity Verification
+### 5.4 Privacy Authentication
   zkDID zkLogin
+
+- [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](#zkLogin-Privacy-Preserving-Blockchain-Authentication-with-Existing-Credentials)
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
 - [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)
@@ -343,6 +351,9 @@ zkDatabase zcash
   - [video](https://youtu.be/_WsCQc9Elcg)
   - [slides](https://iacr.org/submit/files/slides/2024/eurocrypt/eurocrypt2024/346/slides.pptx)
   - [implementation](https://github.com/zkp-learning/Lasso)
+
+#### HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost
+  - [full version](https://eprint.iacr.org/2024/1273.pdf)
 
 #### Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning
   - [full version](https://eprint.iacr.org/2025/507.pdf)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
@@ -515,6 +526,11 @@ zkDatabase zcash
 
 #### polygon zkEVM
   - [polygon zkEVM](https://docs.polygon.technology/zkEVM/architecture/proving-system/secondary-sms-lookup-tables/?h=lookup)
+
+#### zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
+  - [full version](https://arxiv.org/pdf/2401.11735)
+  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3658644.3690356)
+  - [slides](https://mahdi171.github.io/files/zkLogin_O1Labs.pdf)
 
 #### ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs
   - [conference version](https://dl.acm.org/doi/pdf/10.1145/3627703.3650088)&nbsp;&nbsp;&nbsp;uses halo2 lookup&nbsp;&nbsp;&nbsp;EuroSys 2024
