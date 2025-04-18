@@ -146,6 +146,9 @@ logup+GKR (Improving logarithmic derivative lookups using GKR)
 Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 - [Bypassing the characteristic bound in logUp](#Bypassing-the-characteristic-bound-in-logUp)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
+
+  describe how to bypass the characteristic bound in [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) by abstracting the notion of (pole) multiplicity. The method applies as well to the [Logup+GKR](#improving-logarithmic-derivative-lookups-using-gkr), and it moreover unlocks fractional decomposition lookups over binary fields.
+  
 - [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
@@ -253,7 +256,10 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   introduces LogSpartan PIOP that uses a lookup argument based on logarithmic derivatives of polynomials [LogUp](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) and reduces the proof size of the Spartan PIOP from O(log2 n) to O(log n) while retaining the same prover efficiency.
 - [Zinc: Succinct Arguments with Small Arithmetization Overheads from IOPs of Proximity to the Integers](#Zinc-Succinct-Arguments-with-Small-Arithmetization-Overheads-from-IOPs-of-Proximity-to-the-Integers)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202502
 
-one can use a lookup argument over the rationals to ensure that the witness contains only integer elements.
+  one can use a lookup argument over the rationals to ensure that the witness contains only integer elements.
+- [On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More](https://eprint.iacr.org/2025/238.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202502
+
+  based on Lasso. yields the first lookup argument for unstructured tables in which the prover is sublinear in the size of the table, while making only black-box use of a VC and thus allowing instantiations from generic assumptions such as collision-resistant hash functions. Prior lookup arguments with sublinear provers were only known with non-black-box use of cryptographic primitives, or from pairings. 
 ### 5.2 Blockchain zkVM zkEVM
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)
 - [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)
@@ -446,6 +452,9 @@ one can use a lookup argument over the rationals to ensure that the witness cont
 
 #### Samaritan: Linear-time Prover SNARK from New Multilinear Polynomial Commitments
   - [eprint version](https://eprint.iacr.org/2025/419.pdf)
+
+#### On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More
+  - [eprint version](https://eprint.iacr.org/2025/238.pdf)
 
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
