@@ -145,6 +145,7 @@ logup+GKR (Improving logarithmic derivative lookups using GKR)
 μ-seek  (Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them)
 Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Bypassing the characteristic bound in logUp](#Bypassing-the-characteristic-bound-in-logUp)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
 - [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
@@ -247,7 +248,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 [⬆️ Back to Contents](#Contents)
 ### 5.1 zk-SNARK
 - [BabySpartan: Lasso-based SNARK for non-uniform computation](#BabySpartan-Lasso-based-SNARK-for-non-uniform-computation)
-
+- [Samaritan: Linear-time Prover SNARK from New Multilinear Polynomial Commitments](#Samaritan-Linear-time-Prover-SNARK-from-New-Multilinear-Polynomial-Commitments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503&nbsp;&nbsp;&nbsp;&nbsp;introduces LogSpartan PIOP that uses a lookup argument based on logarithmic derivatives of polynomials [LogUp](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) and reduces the proof size of the Spartan
+PIOP from O(log2 n) to O(log n) while retaining the same prover efficiency.
 ### 5.2 Blockchain zkVM zkEVM
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)
 - [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)
@@ -338,6 +340,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [notes 2](https://blog.csdn.net/mutourend/article/details/127745883)
   - [video](https://www.youtube.com/watch?v=qv_5dF2_C4g)
   - [implementation](https://github.com/yugocabrio/oreno-lookup)
+
+#### Bypassing the characteristic bound in logUp
+  - [eprint version](https://eprint.iacr.org/2024/2067.pdf)
 
 #### cq: Cached quotients for fast lookups
   - [eprint version](https://eprint.iacr.org/2022/1763.pdf)
@@ -434,6 +439,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 [⬆️ Back to Contents](#Contents)
 #### BabySpartan: Lasso-based SNARK for non-uniform computation
   - [eprint version](https://eprint.iacr.org/2023/1799.pdf)
+
+#### Samaritan: Linear-time Prover SNARK from New Multilinear Polynomial Commitments
+  - [eprint version](https://eprint.iacr.org/2025/419.pdf)
 
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
