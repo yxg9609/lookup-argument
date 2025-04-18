@@ -249,7 +249,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 5.1 zk-SNARK
 - [BabySpartan: Lasso-based SNARK for non-uniform computation](#BabySpartan-Lasso-based-SNARK-for-non-uniform-computation)
 - [Samaritan: Linear-time Prover SNARK from New Multilinear Polynomial Commitments](#Samaritan-Linear-time-Prover-SNARK-from-New-Multilinear-Polynomial-Commitments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
+
   introduces LogSpartan PIOP that uses a lookup argument based on logarithmic derivatives of polynomials [LogUp](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) and reduces the proof size of the Spartan PIOP from O(log2 n) to O(log n) while retaining the same prover efficiency.
+- [Zinc: Succinct Arguments with Small Arithmetization Overheads from IOPs of Proximity to the Integers](#Zinc-Succinct-Arguments-with-Small-Arithmetization-Overheads-from-IOPs-of-Proximity-to-the-Integers)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202502
+
+one can use a lookup argument over the rationals to ensure that the witness contains only integer elements.
 ### 5.2 Blockchain zkVM zkEVM
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)
 - [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)
