@@ -145,6 +145,7 @@ Halo 2 lookup,      Plookup
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
 - [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
+
   handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](#Twist-and-Shout-Faster-memory-checking-arguments-via-one-hot-addressing-and-increments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ### 1.3 Based on logarithmic derivatives
@@ -155,6 +156,8 @@ logup+GKR (Improving logarithmic derivative lookups using GKR)
 μ-seek  (Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them)
 Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+
+  the pain point in logup/cq kinds lookup is commiting huge values, GKR can solve this problem.
 - [Bypassing the characteristic bound in logUp](#Bypassing-the-characteristic-bound-in-logUp)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
 
   describe how to bypass the characteristic bound in [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) by abstracting the notion of (pole) multiplicity. The method applies as well to the [Logup+GKR](#improving-logarithmic-derivative-lookups-using-gkr), and it moreover unlocks fractional decomposition lookups over binary fields.
