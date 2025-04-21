@@ -130,9 +130,9 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 [⬆️ Back to Contents](#Contents)
 ### 1.1 Based on multiset equality
 Halo 2 lookup,      Plookup 
-- [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
-- [halo2](#halo2)
-- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
+- [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2020
+- [halo2](#halo2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021
+- [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
 
 ### 1.2 Based on memory checking
 (spartan),     part of lasso
@@ -147,7 +147,7 @@ Halo 2 lookup,      Plookup
 - [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
 
   handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
-- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](#Twist-and-Shout-Faster-memory-checking-arguments-via-one-hot-addressing-and-increments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](#Twist-and-Shout-Faster-memory-checking-arguments-via-one-hot-addressing-and-increments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2025
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
 cq+   (Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees)
@@ -155,30 +155,30 @@ Locq  (Efficient KZG-based Univariate Sum-check and Lookup Argument)
 logup+GKR (Improving logarithmic derivative lookups using GKR)
 μ-seek  (Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them)
 Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
-- [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [Multivariate lookups based on logarithmic derivatives(Logup)](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2022
 
   the pain point in logup/cq kinds lookup is commiting huge values, GKR can solve this problem.
 - [Bypassing the characteristic bound in logUp](#Bypassing-the-characteristic-bound-in-logUp)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
 
   describe how to bypass the characteristic bound in [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) by abstracting the notion of (pole) multiplicity. The method applies as well to the [Logup+GKR](#improving-logarithmic-derivative-lookups-using-gkr), and it moreover unlocks fractional decomposition lookups over binary fields.
   
-- [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)
+- [cq: Cached quotients for fast lookups](#cq-cached-quotients-for-fast-lookups)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2022
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [Locq Efficient KZG-based Univariate Sum-check and Lookup Argument](#locq-efficient-kzg-based-univariate-sum-check-and-lookup-argument)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
-- [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)
+- [Improving logarithmic derivative lookups using GKR](#improving-logarithmic-derivative-lookups-using-gkr)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2023
 
-   inspired by [Lasso](#Unlocking-the-lookup-singularity-with-Lasso), GKR is introduced to further enhance Lookup performance. 
+   inspired by [Lasso](#Unlocking-the-lookup-singularity-with-Lasso), GKR is introduced to further enhance Lookup performance. The rational sum identity of the traditional multi-column lookup argument is encoded as a pair of polynomials (numerator and denominator) on a Boolean hypercube so that its projective sum can be verified to be 0 using a GKR circuit.
 - [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
 
   optimization builds on [Lasso](#Unlocking-the-lookup-singularity-with-Lasso). handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
-- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)
+- [Natively Compatible Super-Efficient Lookup Arguments and How to Apply Them](#natively-compatible-super-efficient-lookup-arguments-and-how-to-apply-them)&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
 - [(Tlookup)zkLLM: Zero Knowledge Proofs for Large Language Models](#Tlookup-zkllm-zero-knowledge-proofs-for-large-language-models)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024  
 - [MuxProofs: Succinct Arguments for Machine Computation from Vector Lookups](#muxproofs-succinct-arguments-for-machine-computation-from-vector-lookups)&nbsp;&nbsp;based on logup&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
-- [SublonK: Sublinear Prover PlonK](#sublonk-sublinear-prover-plonk)
+- [SublonK: Sublinear Prover PlonK](#sublonk-sublinear-prover-plonk)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2023
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
-- [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
+- [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2025&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
-- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update)based on LogU&pnbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update lookup)based on LogU&pnbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
