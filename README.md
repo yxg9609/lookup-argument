@@ -32,6 +32,7 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
   - [Logarithmic Derivative](#logarithmic-derivative)
   - [Offline Memory Checking](#offline-memory-checking)
   - [Multiset Euqlity](#multiset-euqlity)
+  - [GKR](#gkr)
 
 </details>
 
@@ -123,7 +124,8 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 - [Offline Memory Checking](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Offline-Memory-Checking)
 ### Multiset Euqlity
 - [Multiset Euqlity](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/Permutation-Check-via-Product-Check)
-
+### GKR
+- [protocol](https://georgwiese.github.io/crypto-summaries/Concepts/Protocols/multivariate/GKR)
 ## 1. Classification Based on Fundamental Mathematical Principles
 [⬆️ Back to Contents](#Contents)
 ### 1.1 Based on multiset equality
@@ -142,7 +144,8 @@ Halo 2 lookup,      Plookup
 
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
-- [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
+  handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [Twist and Shout: Faster memory checking arguments via one-hot addressing and increments](#Twist-and-Shout-Faster-memory-checking-arguments-via-one-hot-addressing-and-increments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
 ### 1.3 Based on logarithmic derivatives
 Logup, cq,
@@ -248,17 +251,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 
 ### 4.2 No preprocessing_Updatable
-- [plookup: A simplified polynomial protocol for lookup table](https://eprint.iacr.org/2020/315.pdf)
-  - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
-  - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
-  - [video](https://www.youtube.com/watch?v=Vdlc1CmRYRY)
-  - [implementation](https://github.com/kevaundray/plookup)
-- [halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
-  - [notes](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
-  - [video](https://www.youtube.com/watch?v=3ie2yZ7CT5A)
-  - [implementation](https://github.com/DoHoonKim8/halo2-lasso)
-
+- [plookup: A simplified polynomial protocol for lookup tables](#plookup-A-simplified-polynomial-protocol-for-lookup-tables)
+- [halo2](#halo2)
 
 ### 4.3 Need preprocessing_Updatable
 - [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
