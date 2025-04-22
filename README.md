@@ -260,6 +260,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 4.3 Need preprocessing_Updatable
 - [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
 - [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update lookup)based on LogU&pnbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+
 
 ## 5. Applications of Lookup Arguments
 [⬆️ Back to Contents](#Contents)
