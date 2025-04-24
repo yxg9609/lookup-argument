@@ -185,7 +185,7 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 - [FLI: Folding Lookup Instances](#fli-folding-lookup-instances)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
-- [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)
+- [Baloo: Nearly Optimal Lookup Arguments](#baloo-nearly-optimal-lookup-arguments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2022
 - [Unlocking the lookup singularity with Lasso](#Unlocking-the-lookup-singularity-with-Lasso)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
 
   main part is based on MVM, the well-formation check to guarantee the correctness of certain polynomials committed during the protocol is done by offline memory checking techniques from Spartan
@@ -193,14 +193,14 @@ Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
 
   optimization builds on [Lasso](#Unlocking-the-lookup-singularity-with-Lasso)，main part is based on MVM. handle the well-formation check using logarithmic derivative techniques from [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) to cutting prover cost
 - [(zklasso)SNARKs for Virtual Machines are Non-Malleable](#zklasso-SNARKs-for-Virtual-Machines-are-Non-Malleable)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2025
-- [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version
+- [TaSSLE: Lasso for the commitment-phobic](#TaSSLE-Lasso-for-the-commitment-phobic)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2024
 
 ### 1.5 Based on vanishing polynomial
 Based on vanishing polynomial：caulk，caulk+，flookup
 "Batching-Efficient RAM using Updatable Lookup Argumentslookup" is based on Caulk+
 - [Caulk: Lookup Arguments in Sublinear Time](#caulk-lookup-arguments-in-sublinear-time)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
-- [Caulk+: Table-independent lookup arguments](#caulk-table-independent-lookup-arguments)
-- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)
+- [Caulk+: Table-independent lookup arguments](#caulk-table-independent-lookup-arguments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2022
+- [flookup: Fractional decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size](#flookup-fractional-decomposition-based_lookups_in_quasi-linear_time_independent_of_table_size)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2022
 - [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 
 ## 2. Classification Based on Lookup Objects
@@ -268,7 +268,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ## 5. Applications of Lookup Arguments
 [⬆️ Back to Contents](#Contents)
 ### 5.1 zk-SNARK
-- [BabySpartan: Lasso-based SNARK for non-uniform computation](#BabySpartan-Lasso-based-SNARK-for-non-uniform-computation)
+- [BabySpartan: Lasso-based SNARK for non-uniform computation](#BabySpartan-Lasso-based-SNARK-for-non-uniform-computation)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202311
 - [Samaritan: Linear-time Prover SNARK from New Multilinear Polynomial Commitments](#Samaritan-Linear-time-Prover-SNARK-from-New-Multilinear-Polynomial-Commitments)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
 
   introduces LogSpartan PIOP that uses a lookup argument based on logarithmic derivatives of polynomials [LogUp](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) and reduces the proof size of the Spartan PIOP from O(log2 n) to O(log n) while retaining the same prover efficiency.
@@ -280,20 +280,19 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   based on Lasso. yields the first lookup argument for unstructured tables in which the prover is sublinear in the size of the table, while making only black-box use of a VC and thus allowing instantiations from generic assumptions such as collision-resistant hash functions. Prior lookup arguments with sublinear provers were only known with non-black-box use of cryptographic primitives, or from pairings. 
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
-- [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)
+- [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
 
 
 ### 5.3 zkVM zkEVM
   Express logical operations, memory consistency checking, and control flow structures at a low constraint cost（e.g. XOR, AND, range）
   Memory models and lookup arguments play a role in defining how memory is accessed and verified.
-- [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)
-- [Proving CPU Executions in Small Space](#Proving-CPU-Executions-in-Small-Space)
-- [ZKWASM: A ZKSNARK WASM Emulator](#ZKWASM-A-ZKSNARK-WASM-Emulator)
-- [Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM](#Two-Shuffles-Make-a-RAM-Improved-Constant-Overhead-Zero-Knowledge-RAM)
-- [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](#Zero-Knowledge-Memory-Checking-Techniques-for-Stacks-and-Queues)
-- [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](#Nebula-Efficient-read-write-memory-and-switchboard-circuits-for-folding-schemes)
-- [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](#Polynomial-IOPs-for-Memory-Consistency-Checks-in-Zero-Knowledge-Virtual-Machines)
-
+- [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+- [Proving CPU Executions in Small Space](#Proving-CPU-Executions-in-Small-Space)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202504
+- [ZKWASM: A ZKSNARK WASM Emulator](#ZKWASM-A-ZKSNARK-WASM-Emulator)&nbsp;&nbsp;&nbsp;&nbsp;IEEE Transactions on Services Computing 2024
+- [Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM](#Two-Shuffles-Make-a-RAM-Improved-Constant-Overhead-Zero-Knowledge-RAM)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](#Zero-Knowledge-Memory-Checking-Techniques-for-Stacks-and-Queues)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202412
+- [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](#Nebula-Efficient-read-write-memory-and-switchboard-circuits-for-folding-schemes)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202410
+- [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](#Polynomial-IOPs-for-Memory-Consistency-Checks-in-Zero-Knowledge-Virtual-Machines)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023
 - [scroll zkEVM](#scroll-zkEVM)
 - [zksync zkEVM](#zksync-zkEVM)
 - [polygon zkEVM](#polygon-zkEVM)
@@ -301,15 +300,15 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 5.4 Privacy Authentication
   zkDID zkLogin
 
-- [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](#zkLogin-Privacy-Preserving-Blockchain-Authentication-with-Existing-Credentials)
+- [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](#zkLogin-Privacy-Preserving-Blockchain-Authentication-with-Existing-Credentials)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
-- [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)
-- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)
-- [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkLLM-Zero-Knowledge-Proofs-for-Large-Language-Models)
-- [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](#An-Efficient-and-Extensible-Zero-knowledge-Proof-Framework-for-Neural-Networks)
-- [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)
-- [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)
+- [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkLLM-Zero-Knowledge-Proofs-for-Large-Language-Models)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+- [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](#An-Efficient-and-Extensible-Zero-knowledge-Proof-Framework-for-Neural-Networks)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202405
+- [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202210
+- [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
 
 ### 5.6 Verifiable Computation
 zkDatabase zcash 
@@ -328,7 +327,7 @@ zkDatabase zcash
 ### 7.1 Lookup Argument Papers
 
 #### plookup: A simplified polynomial protocol for lookup tables
-  - [eprint version](https://eprint.iacr.org/2020/315.pdf)
+  - [eprint version](https://eprint.iacr.org/2020/315.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2020
   - [note by GuoYu](https://github.com/sec-bit/learning-zkp/blob/master/plonk-intro-zh/7-plonk-lookup.md)
   - [note by Ariel Gabizon](https://hackmd.io/@relgabizon/ByFgSDA7D)
   - [slides](https://aztec.slides.com/suyashbagad_aztec/plookup-and-plonk#/2/0/16)
@@ -522,7 +521,7 @@ zkDatabase zcash
   - [eprint version](https://eprint.iacr.org/2024/1605.pdf)&nbsp;&nbsp;&nbsp;&nbsp;based on Lasso
 
 #### Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines
-  - [full version](https://eprint.iacr.org/2023/1555.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+  - [full version](https://eprint.iacr.org/2023/1555.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-99-8724-5_4.pdf?pdf=inline%20link)
   - [slides](https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/344/slides.pdf)
 #### scroll zkEVM
