@@ -180,7 +180,7 @@ Tlookup  (zkLLM: Zero Knowledge Proofs for Large Language Models)
 - [Succinct Non-Subsequence Arguments](#succinct-non-subsequence-arguments)&nbsp;&nbsp;&nbsp;&nbsp;Non-Subsequence lookup&nbsp;&nbsp;&nbsp;&nbsp;SCN2024
 - [Soloist: Distributed SNARKs for Rank-One Constraint System](#soloist-distributed-snarks-for-rank-one-constraint-system)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 2025&nbsp;&nbsp;&nbsp;&nbsp;distributed lookup based on logup
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023&nbsp;&nbsp;&nbsp;&nbsp;adapt logarithmic derivatives in folding
-- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update lookup)based on LogU&pnbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update lookup)based on LogUp&nbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 ### 1.4 Based on Matrix vector multiplication
 Part of Lasso， Baloo，  FLI（FLI: Folding Lookup Instances）
@@ -262,7 +262,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 4.3 Need preprocessing_Updatable
 - [Batching-Efficient RAM using Updatable Lookup Arguments](#batching-efficient-ram-using-updatable-lookup-arguments)
 - [DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group](#DUPLEX-Scalable-Zero-Knowledge-Lookup-Arguments-over-RSA-Group)
-- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update lookup)based on LogU&pnbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](#Proofs-for-Deep-Thought-Accumulation-for-large-memories-and-deterministic-computations)&nbsp;&nbsp;&nbsp;(mem-update lookup)based on LogUp&nbsp;&nbsp;&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
 
 
 ## 5. Applications of Lookup Arguments
