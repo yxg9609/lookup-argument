@@ -277,7 +277,11 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   one can use a lookup argument over the rationals to ensure that the witness contains only integer elements.
 - [On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More](https://eprint.iacr.org/2025/238.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202502
 
-  based on Lasso. yields the first lookup argument for unstructured tables in which the prover is sublinear in the size of the table, while making only black-box use of a VC and thus allowing instantiations from generic assumptions such as collision-resistant hash functions. Prior lookup arguments with sublinear provers were only known with non-black-box use of cryptographic primitives, or from pairings. 
+  based on Lasso. yields the first lookup argument for unstructured tables in which the prover is sublinear in the size of the table, while making only black-box use of a VC and thus allowing instantiations from generic assumptions such as collision-resistant hash functions. Prior lookup arguments with sublinear provers were only known with non-black-box use of cryptographic primitives, or from pairings.
+
+- [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](#Zero-Knowledge-Location-Privacy-via-Accurate-Floating-Point-SNARKs) SP 2025
+
+  novel optimizations for computing floating-point SNARKs, uses logup lookup.
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -493,8 +497,13 @@ zkDatabase zcash
 #### On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More
   - [eprint version](https://eprint.iacr.org/2025/238.pdf)
 
+#### Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
+  - [conference version](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/21B7R3HsGK4/pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP 2025
+  - [full version](https://arxiv.org/pdf/2404.14983)
+  - [video](https://m.youtube.com/watch?v=dPCWQVGvp5Q)
+    
 #### Cross-chain bridges via backwards-compatible SNARKs
-  - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
 
 #### Jolt: SNARKs for Virtual Machines via Lookups
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_1.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;uses Lasso&nbsp;&nbsp;EUROCRYPT 2024
