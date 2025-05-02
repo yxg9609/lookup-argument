@@ -285,6 +285,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
+- [IZPR: Instant Zero Knowledge Proof of Reserve](#IZPR-Instant-Zero-Knowledge-Proof-of-Reserve)&nbsp;&nbsp;&nbsp;&nbsp;FC 2024
+
+  lookup in financial by expending cq
 
 
 ### 5.3 zkVM zkEVM
@@ -504,6 +507,10 @@ zkDatabase zcash
     
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
+
+#### IZPR: Instant Zero Knowledge Proof of Reserve
+  - [conference version](https://dl.acm.org/doi/10.1007/978-3-031-69231-4_15)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FC 2024
+  - [full version](https://eprint.iacr.org/2023/1156.pdf)
 
 #### Jolt: SNARKs for Virtual Machines via Lookups
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-58751-1_1.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;uses Lasso&nbsp;&nbsp;EUROCRYPT 2024
