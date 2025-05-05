@@ -282,6 +282,12 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](#Zero-Knowledge-Location-Privacy-via-Accurate-Floating-Point-SNARKs) SP 2025
 
   novel optimizations for computing floating-point SNARKs, uses logup lookup.
+
+- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
+ 
+- [PlonKup: Reconciling PlonK with plookup](#PlonKup-Reconciling-PlonK-with-plookup)
+- [HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates](#HyperPlonk-Plonk-with-Linear-Time-Prover-and-High-Degree-Custom-Gates)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
+
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -504,7 +510,15 @@ zkDatabase zcash
   - [conference version](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/21B7R3HsGK4/pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP 2025
   - [full version](https://arxiv.org/pdf/2404.14983)
   - [video](https://m.youtube.com/watch?v=dPCWQVGvp5Q)
-    
+
+#### PlonKup: Reconciling PlonK with plookup
+  - [eprint version](https://eprint.iacr.org/2022/086.pdf)
+
+#### HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-30617-4_17.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
+  - [full version](https://eprint.iacr.org/2022/1355.pdf)
+  - [implementation](https://github.com/EspressoSystems/hyperplonk)
+
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
 
