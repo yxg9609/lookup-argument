@@ -285,7 +285,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 - [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
  
-- [PlonKup: Reconciling PlonK with plookup](#PlonKup-Reconciling-PlonK-with-plookup)
+- [PlonKup: Reconciling PlonK with plookup](#PlonKup-Reconciling-PlonK-with-plookup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202201
 - [HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates](#HyperPlonk-Plonk-with-Linear-Time-Prover-and-High-Degree-Custom-Gates)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
 - [HyperNova: Recursive arguments for customizable constraint systems](#HyperNova-Recursive-arguments-for-customizable-constraint-systems)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CRYPTO 2024
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023Protostar describes how to integrate the logUp into IVC.
