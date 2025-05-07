@@ -287,7 +287,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
  
 - [PlonKup: Reconciling PlonK with plookup](#PlonKup-Reconciling-PlonK-with-plookup)
 - [HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates](#HyperPlonk-Plonk-with-Linear-Time-Prover-and-High-Degree-Custom-Gates)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
-
+- [HyperNova: Recursive arguments for customizable constraint systems](#HyperNova-Recursive-arguments-for-customizable-constraint-systems)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CRYPTO 2024
+- [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023Protostar describes how to integrate the logUp into IVC.
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -503,6 +504,9 @@ zkDatabase zcash
 #### Samaritan: Linear-time Prover SNARK from New Multilinear Polynomial Commitments
   - [eprint version](https://eprint.iacr.org/2025/419.pdf)
 
+#### Zinc: Succinct Arguments with Small Arithmetization Overheads from IOPs of Proximity to the Integers
+  - [eprint version](https://eprint.iacr.org/2025/316.pdf)
+
 #### On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More
   - [eprint version](https://eprint.iacr.org/2025/238.pdf)
 
@@ -518,6 +522,10 @@ zkDatabase zcash
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-30617-4_17.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
   - [full version](https://eprint.iacr.org/2022/1355.pdf)
   - [implementation](https://github.com/EspressoSystems/hyperplonk)
+
+#### HyperNova: Recursive arguments for customizable constraint systems
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-68403-6_11.pdf?pdf=inline%20link)
+  - [full version](https://eprint.iacr.org/2023/573.pdf)
 
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
