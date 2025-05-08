@@ -316,6 +316,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
   propose gcq, a new construction for the lookup argument—a key building block of the memory consistency check, which costs fewer online polynomial oracles than cq.
 
+- [Ceno: Non-uniform, Segment and Parallel Zero-knowledge Virtual Machine](#Ceno-Non-uniform-Segment-and-Parallel-Zero-knowledge-Virtual-Machine)&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
+
+  Reduce the lookup to off-line memory checking, and use the lasso lookup directly
 - [scroll zkEVM](#scroll-zkEVM)
 - [zksync zkEVM](#zksync-zkEVM)
 - [polygon zkEVM](#polygon-zkEVM)
@@ -576,6 +579,11 @@ zkDatabase zcash
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-99-8724-5_4.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023
   - [full version](https://eprint.iacr.org/2023/1555.pdf)
   - [slides](https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/344/slides.pdf)
+
+#### Ceno: Non-uniform, Segment and Parallel Zero-knowledge Virtual Machine
+  - [journal version](https://link.springer.com/article/10.1007/s00145-024-09533-2)
+  - [full version](https://eprint.iacr.org/2024/387.pdf)
+
 #### scroll zkEVM
   - [scroll zkEVM](https://www.slideshare.net/slideshow/zkevm-circuit-arithmetization-by-ye-zhang/267299055)
 
