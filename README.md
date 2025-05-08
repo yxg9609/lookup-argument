@@ -322,11 +322,12 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use cq+ lookup inspired by cq lookup&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkLLM-Zero-Knowledge-Proofs-for-Large-Language-Models)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 
-  proposed tlookup, a more efficient lookup argument especially for the tensor-based structure based on logup \cite{logup} and sumcheck protocol
+  proposed tlookup, a more efficient lookup argument especially for the tensor-based structure based on logup and sumcheck protocol
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](#An-Efficient-and-Extensible-Zero-knowledge-Proof-Framework-for-Neural-Networks)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202405
 
   use plookup-based lookup argument to constrain the primitive operations for non-linear layers
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202210
+- [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](#Trust-the-Process-Zero-Knowledge-Machine-Learning-to-Enhance-Trust-in-Generative-AI-Interactions)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;arxiv version 202402
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
 
 ### 5.6 Verifiable Computation
@@ -601,8 +602,11 @@ zkDatabase zcash
   - [eprint version](https://eprint.iacr.org/2024/703.pdf)
 
 #### Scaling up Trustless DNN Inference with Zero-Knowledge Proofs
-  - [arxiv version](https://arxiv.org/abs/2210.08674)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uses halo2 lookupn
+  - [arxiv version](https://arxiv.org/abs/2210.08674)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uses halo2 lookup
   - [video](https://www.youtube.com/watch?v=Co5gNoHnMhs)
+
+#### Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions
+  - [arxiv version](https://arxiv.org/pdf/2402.06414) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;202402&nbsp;&nbsp;&nbsp;uses halo2 lookup
 
 #### zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning
   - [eprint version](https://eprint.iacr.org/2025/535.pdf)
