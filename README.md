@@ -319,6 +319,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   Efficiently verify nonlinear calculations in neural networks using lookup argument
 - [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
 - [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkLLM-Zero-Knowledge-Proofs-for-Large-Language-Models)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](#An-Efficient-and-Extensible-Zero-knowledge-Proof-Framework-for-Neural-Networks)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202405
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202210
