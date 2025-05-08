@@ -301,8 +301,14 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   Express logical operations, memory consistency checking, and control flow structures at a low constraint cost（e.g. XOR, AND, range）
   Memory models and lookup arguments play a role in defining how memory is accessed and verified.
 - [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
+
+  use lasso lookup
 - [Proving CPU Executions in Small Space](#Proving-CPU-Executions-in-Small-Space)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202504
+
+  use lasso/shout lookup
 - [ZKWASM: A ZKSNARK WASM Emulator](#ZKWASM-A-ZKSNARK-WASM-Emulator)&nbsp;&nbsp;&nbsp;&nbsp;IEEE Transactions on Services Computing 2024
+
+  use halo2 lookup
 - [Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM](#Two-Shuffles-Make-a-RAM-Improved-Constant-Overhead-Zero-Knowledge-RAM)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
 - [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](#Zero-Knowledge-Memory-Checking-Techniques-for-Stacks-and-Queues)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202412
 - [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](#Nebula-Efficient-read-write-memory-and-switchboard-circuits-for-folding-schemes)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202410
