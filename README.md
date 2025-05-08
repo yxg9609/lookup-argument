@@ -313,6 +313,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](#Zero-Knowledge-Memory-Checking-Techniques-for-Stacks-and-Queues)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202412
 - [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](#Nebula-Efficient-read-write-memory-and-switchboard-circuits-for-folding-schemes)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202410
 - [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](#Polynomial-IOPs-for-Memory-Consistency-Checks-in-Zero-Knowledge-Virtual-Machines)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023
+
+  propose gcq, a new construction for the lookup argument—a key building block of the memory consistency check, which costs fewer online polynomial oracles than cq.
+
 - [scroll zkEVM](#scroll-zkEVM)
 - [zksync zkEVM](#zksync-zkEVM)
 - [polygon zkEVM](#polygon-zkEVM)
