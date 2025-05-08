@@ -317,11 +317,15 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](#zkLogin-Privacy-Preserving-Blockchain-Authentication-with-Existing-Credentials)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
-- [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
-- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
-- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
+- [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
+- [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning](#Scalable-Zero-knowledge-Proofs-for-Non-linear-Functions-in-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use lasso lookup (offline memory checking)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+- [cq+ Lookup Arguments: Improvements, Extensions and Applications to Zero-Knowledge Decision Trees](#cq-lookup-arguments-improvements-extensions-and-applications-to-zero-knowledge-decision-trees)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use cq+ lookup inspired by cq lookup&nbsp;&nbsp;&nbsp;&nbsp;PKC 2024
 - [zkLLM: Zero Knowledge Proofs for Large Language Models](#zkLLM-Zero-Knowledge-Proofs-for-Large-Language-Models)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+
+  proposed tlookup, a more efficient lookup argument especially for the tensor-based structure based on logup \cite{logup} and sumcheck protocol
 - [An Efficient and Extensible Zero-knowledge Proof Framework for Neural Networks](#An-Efficient-and-Extensible-Zero-knowledge-Proof-Framework-for-Neural-Networks)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202405
+
+  use plookup-based lookup argument to constrain the primitive operations for non-linear layers
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202210
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
 
