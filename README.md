@@ -332,7 +332,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 ### 5.6 Verifiable Computation
 zkDatabase zcash 
-
+- [zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof](#zk-Database-Privacy-enabled-Databases-using-Zero-Knowledge-Proof)
 
 ## 6. Other Resources
 [⬆️ Back to Contents](#Contents)
@@ -610,6 +610,9 @@ zkDatabase zcash
 
 #### zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning
   - [eprint version](https://eprint.iacr.org/2025/535.pdf)
+
+#### zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof
+  - [conference version](https://dl.acm.org/doi/10.1145/3708622.3708634)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICBTA 2024
 
 
 [⬆️ Back to Contents](#Contents)
