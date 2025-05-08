@@ -552,8 +552,6 @@ zkDatabase zcash
 
 #### ZKWASM: A ZKSNARK WASM Emulator
   - [journal version](https://ieeexplore.ieee.org/document/10587123)&nbsp;&nbsp;&nbsp;&nbsp;IEEE Transactions on Services Computing 2024
-  - [full version](https://arxiv.org/pdf/2401.11735)
-  - [implementation](https://github.com/CPerezz/caulk_plus)
 
 #### Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM
   - [conference version](https://www.usenix.org/system/files/sec24summer-prepub-208-yang-yibin.pdf)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
