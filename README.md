@@ -279,12 +279,12 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
   based on Lasso. yields the first lookup argument for unstructured tables in which the prover is sublinear in the size of the table, while making only black-box use of a VC and thus allowing instantiations from generic assumptions such as collision-resistant hash functions. Prior lookup arguments with sublinear provers were only known with non-black-box use of cryptographic primitives, or from pairings.
 
-- [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](#Zero-Knowledge-Location-Privacy-via-Accurate-Floating-Point-SNARKs) SP 2025
+- [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](#Zero-Knowledge-Location-Privacy-via-Accurate-Floating-Point-SNARKs) S&P 2025
 
   novel optimizations for computing floating-point SNARKs, uses logup lookup.
 
-- [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](#Pianist-Scalable-zkRollups-via-Fully-Distributed-Zero-Knowledge-Proofs)
-- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
+- [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](#Pianist-Scalable-zkRollups-via-Fully-Distributed-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&P 2024
+- [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&P 2025
  
 - [PlonKup: Reconciling PlonK with plookup](#PlonKup-Reconciling-PlonK-with-plookup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202201
 - [HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates](#HyperPlonk-Plonk-with-Linear-Time-Prover-and-High-Degree-Custom-Gates)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
