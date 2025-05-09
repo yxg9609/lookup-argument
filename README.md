@@ -283,6 +283,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
   novel optimizations for computing floating-point SNARKs, uses logup lookup.
 
+- [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](#Pianist-Scalable-zkRollups-via-Fully-Distributed-Zero-Knowledge-Proofs)
 - [HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost](#HyperPianist-Pianist-with-Linear-Time-Prover-and-Logarithmic-Communication-Cost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE S&P 2025
  
 - [PlonKup: Reconciling PlonK with plookup](#PlonKup-Reconciling-PlonK-with-plookup)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202201
@@ -537,6 +538,10 @@ zkDatabase zcash
 
 #### PlonKup: Reconciling PlonK with plookup
   - [eprint version](https://eprint.iacr.org/2022/086.pdf)
+
+#### Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs
+  - [conference version](https://ieeexplore.ieee.org/abstract/document/10646741)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP 2025
+  - [full version](https://eprint.iacr.org/2023/1271.pdf)
 
 #### HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-30617-4_17.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
