@@ -310,6 +310,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
   use halo2 lookup
 - [Two Shuffles Make a RAM: Improved Constant Overhead Zero Knowledge RAM](#Two-Shuffles-Make-a-RAM-Improved-Constant-Overhead-Zero-Knowledge-RAM)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2024
+
+   proposed ZK ROM shares some similarities with plookup table literature. Similar intuition to ZK RAM has been applied in the memory checking (e.g., in lasso)
 - [Zero Knowledge Memory-Checking Techniques for Stacks and Queues](#Zero-Knowledge-Memory-Checking-Techniques-for-Stacks-and-Queues)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202412
 - [Nebula: Efficient read-write memory and switchboard circuits for folding schemes](#Nebula-Efficient-read-write-memory-and-switchboard-circuits-for-folding-schemes)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202410
 - [Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines](#Polynomial-IOPs-for-Memory-Consistency-Checks-in-Zero-Knowledge-Virtual-Machines)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023
