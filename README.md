@@ -295,6 +295,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [GAPP: Generic Aggregation of Polynomial Protocols](#GAPP-Generic-Aggregation-of-Polynomial-Protocols)&nbsp;&nbsp;&nbsp;&nbsp;eprint 202410
 
   introduces a specialized tuple lookup argument designed to verify whether a list of multi-field records (tuples) are contained within a predefined lookup table.
+- [DFS: Delegation-friendly zkSNARK and Private Delegation of Provers](#DFS-Delegation-friendly-zkSNARK-and-Private-Delegation-of-Provers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
+
+  Delegation-friendly zkSNARK by using logup
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -577,6 +580,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### GAPP: Generic Aggregation of Polynomial Protocols
   - [eprint version](https://eprint.iacr.org/2024/1685.pdf)
+
+#### DFS: Delegation-friendly zkSNARK and Private Delegation of Provers
+  - [eprint version](https://eprint.iacr.org/2025/296)
 
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
