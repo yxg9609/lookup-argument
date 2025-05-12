@@ -301,6 +301,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs](#Dual-Polynomial-Commitment-Schemes-and-Applications-to-Commit-and-Prove-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
 
   briefly discuss why lookup arguments are useful and it is desirable to have general CP-SNARKs that allow linking to lookups.
+- [Soloist: Distributed SNARKs for Rank-One Constraint System](#Soloist-Distributed-SNARKs-for-Rank-One-Constraint-System)
+
+  Distributed SNARKs extending logup lookup
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -371,6 +374,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](#Trust-the-Process-Zero-Knowledge-Machine-Learning-to-Enhance-Trust-in-Generative-AI-Interactions)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;arxiv version 202402
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
 - [zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference](#zkGPT-An-Efficient-Non-interactive-Zero-knowledge-Proof-Framework-for-LLM-Inference)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use lasso lookup(generalized lasso) &nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
+- [Sparrow: Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees](#Sparrow-Space-Efficient-zkSNARK-for-Data-Parallel-Circuits-and-Applications-to-Zero-Knowledge-Decision-Trees)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+
+  zero-knowledge proofs offorest training and predictions (zkFTP) uses the approach of the cq+ lookup
 
  
 
@@ -681,6 +687,15 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference
   - [conference version](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-516-qu-zkgpt.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
+
+#### Sparrow: Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees
+  - [conference version](https://dl.acm.org/doi/10.1145/3658644.3690318)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+  - [full version](https://eprint.iacr.org/2024/1631.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202410
+
+#### 
+generalize plookup argument in [26] by enabling
+a variant we call online lookup table to constrain MSM in the
+circuit more efficiently
 
 #### zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof
   - [conference version](https://dl.acm.org/doi/10.1145/3708622.3708634)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICBTA 2024
