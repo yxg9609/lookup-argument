@@ -298,6 +298,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [DFS: Delegation-friendly zkSNARK and Private Delegation of Provers](#DFS-Delegation-friendly-zkSNARK-and-Private-Delegation-of-Provers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
 
   Delegation-friendly zkSNARK by using logup
+- [Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs](#Dual-Polynomial-Commitment-Schemes-and-Applications-to-Commit-and-Prove-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+
+  briefly discuss why lookup arguments are useful and it is desirable to have general CP-SNARKs that allow linking to lookups.
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -583,6 +586,10 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### DFS: Delegation-friendly zkSNARK and Private Delegation of Provers
   - [eprint version](https://eprint.iacr.org/2025/296)
+
+#### Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs
+  - [conference version](https://dl.acm.org/doi/abs/10.1145/3658644.3690219)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+  - [full version](https://eprint.iacr.org/2024/943.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202406
 
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
