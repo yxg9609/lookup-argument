@@ -289,6 +289,12 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates](#HyperPlonk-Plonk-with-Linear-Time-Prover-and-High-Degree-Custom-Gates)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2023
 - [HyperNova: Recursive arguments for customizable constraint systems](#HyperNova-Recursive-arguments-for-customizable-constraint-systems)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CRYPTO 2024
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](#protostar-generic-efficient-accumulationfolding-for-special-sound-protocols)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2023Protostar describes how to integrate the logUp into IVC.
+- [Mira: Efficient Folding for Pairing-based Arguments](#Mira-Efficient-Folding-for-Pairing-based-Arguments)&nbsp;&nbsp;&nbsp;&nbsp;eprint 202412
+
+  TensorStar accumulation scheme for a language of tensor computations. support the basic operations of matrix-vector multiplication and vector addition. We additionally support complex nonlinearities through the usage of cq lookup argument.
+- [GAPP: Generic Aggregation of Polynomial Protocols](#GAPP-Generic-Aggregation-of-Polynomial-Protocols)&nbsp;&nbsp;&nbsp;&nbsp;eprint 202410
+
+  introduces a specialized tuple lookup argument designed to verify whether a list of multi-field records (tuples) are contained within a predefined lookup table.
 ### 5.2 Blockchain
   blockchain scable zkrollup cross-chain bridge
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
@@ -296,9 +302,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
   lookup in Blockchain financial by expending [cq](#cq-cached-quotients-for-fast-lookups)
 
-- [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](#PoneglyphDB-Efficient-Non-interactive-Zero-Knowledge-Proofs-for-Arbitrary-SQL-Query-Verification)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the ACM on Management of Data 2025
-
-  Zero-Knowledge Proofs for SQL database using plookup
+- [zcash](https://z.cash/)
 
 ### 5.3 zkVM/Memory check
   Express logical operations, memory consistency checking, and control flow structures at a low constraint cost（e.g. XOR, AND, range）
@@ -360,6 +364,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202210
 - [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](#Trust-the-Process-Zero-Knowledge-Machine-Learning-to-Enhance-Trust-in-Generative-AI-Interactions)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;arxiv version 202402
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
+- [zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference](#zkGPT-An-Efficient-Non-interactive-Zero-knowledge-Proof-Framework-for-LLM-Inference)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use lasso lookup (offline memory checking)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
 
  
 
@@ -567,6 +572,12 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [conference version](https://link.springer.com/content/pdf/10.1007/978-3-031-68403-6_11.pdf?pdf=inline%20link)
   - [full version](https://eprint.iacr.org/2023/573.pdf)
 
+#### Mira: Efficient Folding for Pairing-based Arguments
+  - [eprint version](https://eprint.iacr.org/2024/2025.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202412
+
+#### GAPP: Generic Aggregation of Polynomial Protocols
+  - [eprint version](https://eprint.iacr.org/2024/1685.pdf)
+
 #### Cross-chain bridges via backwards-compatible SNARKs
   - [eprint version](https://eprint.iacr.org/2024/995.pdf)&nbsp;&nbsp;uses cq lookup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 2024
 
@@ -610,6 +621,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [journal version](https://link.springer.com/article/10.1007/s00145-024-09533-2)
   - [full version](https://eprint.iacr.org/2024/387.pdf)
 
+#### RAMenPaSTA: Parallelizable Scalable Transparent Arguments of Knowledge for RAM Programs
+  - [eprint version](https://eprint.iacr.org/2024/336.pdf)&nbsp;&nbsp;&nbsp;&nbsp;eprint 202402
+    
 #### scroll zkEVM
   - [scroll zkEVM](https://www.slideshare.net/slideshow/zkevm-circuit-arithmetization-by-ye-zhang/267299055)
 
@@ -651,6 +665,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning
   - [eprint version](https://eprint.iacr.org/2025/535.pdf)
+
+#### zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference
+  - [conference version](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-516-qu-zkgpt.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
 
 #### zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof
   - [conference version](https://dl.acm.org/doi/10.1145/3708622.3708634)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICBTA 2024
