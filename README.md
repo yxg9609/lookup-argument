@@ -80,8 +80,8 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
   - [5.1 zk-SNARK](#51-zk-SNARK)
   - [5.2 Blockchain](#52-Blockchain)
-  - [5.3 zkVM/Memory check](#53-zkVM-Memory-check)
-  - [5.4 Privacy Authentication/computation](#54-Privacy-Authentication-computation)
+  - [5.3 zkVM/Memory check](#53-zkVM/Memory-check)
+  - [5.4 Privacy Authentication/computation](#54-Privacy-Authentication/computation)
   - [5.5 ZKML](#55-ZKML)
 
 </details>
