@@ -80,10 +80,9 @@ This will help you stay in sync with the latest papers, summaries, or tools adde
 
   - [5.1 zk-SNARK](#51-zk-SNARK)
   - [5.2 Blockchain](#52-Blockchain)
-  - [5.3 zkVM zkEVM](#53-zkVM-zkEVM)
-  - [5.4 Privacy Authentication](#54-Privacy-Authentication)
+  - [5.3 zkVM/Memory check](#53-zkVM-Memory-check)
+  - [5.4 Privacy Authentication/computation](#54-Privacy-Authentication-computation)
   - [5.5 ZKML](#55-ZKML)
-  - [5.6 Verifiable Computation](#56-verifiable-computation)
 
 </details>
 
@@ -295,12 +294,13 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Cross-chain bridges via backwards-compatible SNARKs](#Cross-chain-bridges-via-backwards-compatible-SNARKs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202406
 - [IZPR: Instant Zero Knowledge Proof of Reserve](#IZPR-Instant-Zero-Knowledge-Proof-of-Reserve)&nbsp;&nbsp;&nbsp;&nbsp;FC 2024
 
-  lookup in financial by expending cq
+  lookup in Blockchain financial by expending [cq](#cq-cached-quotients-for-fast-lookups)
+
 - [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](#PoneglyphDB-Efficient-Non-interactive-Zero-Knowledge-Proofs-for-Arbitrary-SQL-Query-Verification)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the ACM on Management of Data 2025
 
   Zero-Knowledge Proofs for SQL database using plookup
 
-### 5.3 zkVM zkEVM
+### 5.3 zkVM/Memory check
   Express logical operations, memory consistency checking, and control flow structures at a low constraint cost（e.g. XOR, AND, range）
   Memory models and lookup arguments play a role in defining how memory is accessed and verified.
 - [Jolt: SNARKs for Virtual Machines via Lookups](#Jolt-SNARKs-for-Virtual-Machines-via-Lookups)&nbsp;&nbsp;&nbsp;&nbsp;EUROCRYPT 2024
@@ -324,14 +324,28 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Ceno: Non-uniform, Segment and Parallel Zero-knowledge Virtual Machine](#Ceno-Non-uniform-Segment-and-Parallel-Zero-knowledge-Virtual-Machine)&nbsp;&nbsp;&nbsp;&nbsp;JOC 2024
 
   Reduce the lookup to off-line memory checking, and use the lasso lookup directly
+
+- [RAMenPaSTA: Parallelizable Scalable Transparent Arguments of Knowledge for RAM Programs](#RAMenPaSTA-Parallelizable-Scalable-Transparent-Arguments-of-Knowledge-for-RAM-Programs)&nbsp;&nbsp;&nbsp;&nbsp;eprint 202402
+
+  transform the technique for proving correct execution of RAM programs, with [Logup](#Multivariate-lookups-based-on-logarithmic-derivatives-Logup) lookup and memory handling techniques from [FKL+21]
 - [scroll zkEVM](#scroll-zkEVM)
 - [zksync zkEVM](#zksync-zkEVM)
 - [polygon zkEVM](#polygon-zkEVM)
   LogUp is crucial for performance in the Polygon ZKEVM, where they need to split the whole table into several STARK modules. These modules have to be linked correctly, and cross-table lookups enforce this.
-### 5.4 Privacy Authentication
+### 5.4 Privacy Authentication/computation
   zkDID zkLogin
 
 - [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](#zkLogin-Privacy-Preserving-Blockchain-Authentication-with-Existing-Credentials)&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
+- [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](#PoneglyphDB-Efficient-Non-interactive-Zero-Knowledge-Proofs-for-Arbitrary-SQL-Query-Verification)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the ACM on Management of Data 2025
+
+  Zero-Knowledge Proofs for SQL database using plookup
+
+- [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](#Zero-Knowledge-Location-Privacy-via-Accurate-Floating-Point-SNARKs) S&P 2025
+
+  Zero-Knowledge Location Privacy useing logup lookup.
+
+- [zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof](#zk-Database-Privacy-enabled-Databases-using-Zero-Knowledge-Proof)
+
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
 - [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
@@ -347,9 +361,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](#Trust-the-Process-Zero-Knowledge-Machine-Learning-to-Enhance-Trust-in-Generative-AI-Interactions)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;arxiv version 202402
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
 
-### 5.6 Verifiable Computation
-zkDatabase zcash 
-- [zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof](#zk-Database-Privacy-enabled-Databases-using-Zero-Knowledge-Proof)
+ 
+
 
 ## 6. Other Resources
 [⬆️ Back to Contents](#Contents)
