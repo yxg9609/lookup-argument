@@ -364,7 +364,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](#Scaling-up-Trustless-DNN-Inference-with-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202210
 - [Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions](#Trust-the-Process-Zero-Knowledge-Machine-Learning-to-Enhance-Trust-in-Generative-AI-Interactions)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;arxiv version 202402
 - [zkPyTorch: A Hierarchical Optimized Compiler for Zero-Knowledge Machine Learning](#zkPyTorch-A-Hierarchical-Optimized-Compiler-for-Zero-Knowledge-Machine-Learning)&nbsp;&nbsp;&nbsp;&nbsp;eprint version 202503
-- [zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference](#zkGPT-An-Efficient-Non-interactive-Zero-knowledge-Proof-Framework-for-LLM-Inference)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use lasso lookup (offline memory checking)&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
+- [zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference](#zkGPT-An-Efficient-Non-interactive-Zero-knowledge-Proof-Framework-for-LLM-Inference)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use lasso lookup(generalized lasso) &nbsp;&nbsp;&nbsp;&nbsp;USENIX 2025
 
  
 
