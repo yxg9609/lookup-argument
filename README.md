@@ -585,7 +585,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [eprint version](https://eprint.iacr.org/2024/1685.pdf)
 
 #### DFS: Delegation-friendly zkSNARK and Private Delegation of Provers
-  - [eprint version](https://eprint.iacr.org/2025/296)
+  - [eprint version](https://eprint.iacr.org/2025/296)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202502
 
 #### Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs
   - [conference version](https://dl.acm.org/doi/abs/10.1145/3658644.3690219)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
