@@ -361,7 +361,26 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [VERIZEXE: Decentralized Private Computation with Universal Setup](#VERIZEXE-Decentralized-Private-Computation-with-Universal-Setup)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2023
 
   generalize plookup argument by enabling a variant we call online lookup table to constrain MSM in the circuit more efficiently
+- [Beyond the circuit: How to Minimize Foreign Arithmetic in ZKP Circuits](#Beyond-the-circuit-How-to-Minimize-Foreign-Arithmetic-in-ZKP-Circuits)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202402
 
+  provide a protocol to prove in zero-knowledge that the Rijndael (AES) cipher is correctly encrypting a committed value, using a single lookup argument draws upon logUp.
+- [ORIGO: Proving Provenance of Sensitive Data with Constant Communication](ORIGO-Proving-Provenance-of-Sensitive-Data-with-Constant-Communication)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PoPETs 2025
+
+  the AES-GCM circuit is optimized utilizing logup lookup
+- [Reinforced Concrete: a fast hash function for verifiable computation](#Reinforced-Concrete-a-fast-hash-function-for-verifiable-computation)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
+
+  optimize hash utilizing plookup
+- [The Tip5 Hash Function for Recursive STARKs](#The-Tip5-Hash-Function-for-Recursive-STARKs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202301
+
+  ZKP hash optimization inspired by logup lookup
+- [Monolith: Circuit-Friendly Hash Functions with New Nonlinear Layers](#Monolith-Circuit-Friendly-Hash-Functions-with-New-Nonlinear-Layers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202307
+
+  optimize hash utilizing plookup
+
+- [Gotta Hash Em All Speeding Up Hash Functions](#Gotta-Hash-Em-All-Speeding-Up-Hash-Functions)
+- [A short survey of zk-Friendly Hash Functions](#A-short-survey-of-zk-Friendly-Hash-Functions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INFOTEH 2024
+
+  A survey includes hash optimized by lookup arguments
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
 - [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
@@ -698,10 +717,31 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 #### VERIZEXE: Decentralized Private Computation with Universal Setup
   - [conference version](https://www.usenix.org/system/files/sec23fall-prepub-277-xiong-alex.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2023
   - [full version](https://eprint.iacr.org/2022/802.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202206
-  
+
+#### Beyond the circuit: How to Minimize Foreign Arithmetic in ZKP Circuits
+   - [eprint version](https://eprint.iacr.org/2024/265.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202402
+
+#### ORIGO: Proving Provenance of Sensitive Data with Constant Communication
+  - [conference version](https://petsymposium.org/popets/2025/popets-2025-0069.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PoPETs 2025
+  - [full version](https://eprint.iacr.org/2024/447.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202403
+
+#### Reinforced Concrete: a fast hash function for verifiable computation
+  - [conference version](https://dl.acm.org/doi/pdf/10.1145/3548606.3560686)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2022
+  - [full version](https://eprint.iacr.org/2021/1038.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202108
+
+#### The Tip5 Hash Function for Recursive STARKs
+  - [full version](https://eprint.iacr.org/2023/107.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202301
+
+#### Monolith: Circuit-Friendly Hash Functions with New Nonlinear Layers
+  - [eprint version](https://eprint.iacr.org/2023/1025.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202307
+
+#### Gotta Hash Em All Speeding Up Hash Functions
+  - [arxiv version](https://arxiv.org/pdf/2501.18780)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arxiv 202501
 
 #### zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof
   - [conference version](https://dl.acm.org/doi/10.1145/3708622.3708634)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICBTA 2024
 
+#### A short survey of zk-Friendly Hash Functions
+  - [conference version](https://ieeexplore.ieee.org/abstract/document/10959296)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INFOTEH 2024
 
 [⬆️ Back to Contents](#Contents)
