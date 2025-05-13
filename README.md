@@ -358,6 +358,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   Zero-Knowledge Location Privacy useing logup lookup.
 
 - [zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof](#zk-Database-Privacy-enabled-Databases-using-Zero-Knowledge-Proof)
+- [VERIZEXE: Decentralized Private Computation with Universal Setup](#VERIZEXE-Decentralized-Private-Computation-with-Universal-Setup)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2023
+
+  generalize plookup argument by enabling a variant we call online lookup table to constrain MSM in the circuit more efficiently
 
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
@@ -692,10 +695,10 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [conference version](https://dl.acm.org/doi/10.1145/3658644.3690318)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
   - [full version](https://eprint.iacr.org/2024/1631.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202410
 
-#### 
-generalize plookup argument in [26] by enabling
-a variant we call online lookup table to constrain MSM in the
-circuit more efficiently
+#### VERIZEXE: Decentralized Private Computation with Universal Setup
+  - [conference version](https://www.usenix.org/system/files/sec23fall-prepub-277-xiong-alex.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2023
+  - [full version](https://eprint.iacr.org/2022/802.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202206
+  
 
 #### zk-Database: Privacy-enabled Databases using Zero-Knowledge Proof
   - [conference version](https://dl.acm.org/doi/10.1145/3708622.3708634)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICBTA 2024
