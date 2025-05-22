@@ -537,7 +537,7 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   - [implementation](https://github.com/geometryxyz/protostar)
 
 #### Proofs for Deep Thought: Accumulation for large memories and deterministic computations
-  - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-96-0935-2_9.pdf?pdf=inline%20link)&pnbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
+  - [conference version](https://link.springer.com/content/pdf/10.1007/978-981-96-0935-2_9.pdf?pdf=inline%20link)&nbsp;&nbsp;&nbsp;&nbsp;ASIACRYPT 2024
   - [full version](https://eprint.iacr.org/2024/325.pdf)
   - [slides](https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/16/16_slides.pptx)
 
