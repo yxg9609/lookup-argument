@@ -400,6 +400,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
   zero-knowledge proofs offorest training and predictions (zkFTP) uses the approach of the cq+ lookup
 
+- [FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge](#FairZK-A-Scalable-System-to-Prove-Machine-Learning-Fairness-in-Zero-Knowledge)&nbsp;&nbsp;&nbsp;&nbsp;SP 2025
+
  
 
 
@@ -713,6 +715,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 #### Sparrow: Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees
   - [conference version](https://dl.acm.org/doi/10.1145/3658644.3690318)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS 2024
   - [full version](https://eprint.iacr.org/2024/1631.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202410
+
+#### FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge
+  - [arxiv version](https://arxiv.org/pdf/2505.07997)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP 2025
 
 #### VERIZEXE: Decentralized Private Computation with Universal Setup
   - [conference version](https://www.usenix.org/system/files/sec23fall-prepub-277-xiong-alex.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX 2023
