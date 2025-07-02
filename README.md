@@ -383,6 +383,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
   A survey includes hash optimized by lookup arguments
 
 - [Efficient Proofs of Possession for Legacy Signatures](Efficient-Proofs-of-Possession-for-Legacy-Signatures)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&P 2025
+
+  verify ECDSA and Ed25519 by logup
   
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
