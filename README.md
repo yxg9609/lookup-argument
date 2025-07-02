@@ -381,6 +381,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 - [A short survey of zk-Friendly Hash Functions](#A-short-survey-of-zk-Friendly-Hash-Functions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INFOTEH 2024
 
   A survey includes hash optimized by lookup arguments
+
+- [Efficient Proofs of Possession for Legacy Signatures](Efficient-Proofs-of-Possession-for-Legacy-Signatures)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&P 2025
+  
 ### 5.5 ZKML
   Efficiently verify nonlinear calculations in neural networks using lookup argument
 - [ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs](#ZKML-An-Optimizing-System-for-ML-Inference-in-Zero-Knowledge-Proofs)&nbsp;&nbsp;&nbsp;&nbsp;use halo2 lookup&nbsp;&nbsp;&nbsp;&nbsp;EuroSys'2024
@@ -748,5 +751,9 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### A short survey of zk-Friendly Hash Functions
   - [conference version](https://ieeexplore.ieee.org/abstract/document/10959296)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INFOTEH 2024
+
+#### Efficient Proofs of Possession for Legacy Signatures
+  - [conference version](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/21B7RmZTW00/pdf)
+  - [full version](https://eprint.iacr.org/2025/538.pdf)
 
 [⬆️ Back to Contents](#Contents)
