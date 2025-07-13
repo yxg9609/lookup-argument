@@ -745,8 +745,6 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 #### Monolith: Circuit-Friendly Hash Functions with New Nonlinear Layers
   - [eprint version](https://eprint.iacr.org/2023/1025.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint 202307
 
-#### Efficient Proofs of Possession for Legacy Signatures
-  - [eprint version](https://eprint.iacr.org/2025/538.pdf)
 #### Gotta Hash Em All Speeding Up Hash Functions
   - [arxiv version](https://arxiv.org/pdf/2501.18780)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arxiv 202501
 
@@ -758,6 +756,6 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 #### Efficient Proofs of Possession for Legacy Signatures
   - [conference version](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/21B7RmZTW00/pdf)
-  - [full version](https://eprint.iacr.org/2025/538.pdf)
+  - [eprint version](https://eprint.iacr.org/2025/538.pdf)
 
 [⬆️ Back to Contents](#Contents)
