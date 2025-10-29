@@ -407,6 +407,8 @@ Based on vanishing polynomial：caulk，caulk+，flookup
 
 - [FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge](#FairZK-A-Scalable-System-to-Prove-Machine-Learning-Fairness-in-Zero-Knowledge)&nbsp;&nbsp;&nbsp;&nbsp;SP 2025
 
+- [Zero-Knowledge AI Inference with High Precision](#Zero-Knowledge-AI-Inference-with-High-Precision)&nbsp;&nbsp;caulk lookup&nbsp;&nbsp;CCS 2025
+
  
 
 
